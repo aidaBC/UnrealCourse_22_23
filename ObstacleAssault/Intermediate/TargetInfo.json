@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ObstacleAssault",
+			"Path": "C:\\Users\\aidab\\OneDrive\\Escritorio\\CURSOS\\VIDEOJUEGOS_UNREAL_C++\\GIT\\UnrealCourse_22_23\\ObstacleAssault\\Source\\ObstacleAssault.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ObstacleAssaultEditor",
+			"Path": "C:\\Users\\aidab\\OneDrive\\Escritorio\\CURSOS\\VIDEOJUEGOS_UNREAL_C++\\GIT\\UnrealCourse_22_23\\ObstacleAssault\\Source\\ObstacleAssaultEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
