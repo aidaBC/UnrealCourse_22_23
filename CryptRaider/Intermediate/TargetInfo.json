@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CryptRaider",
+			"Path": "C:\\Users\\aidab\\OneDrive\\Escritorio\\CURSOS\\VIDEOJUEGOS_UNREAL_C++\\GIT\\UnrealCourse_22_23\\CryptRaider\\Source\\CryptRaider.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CryptRaiderEditor",
+			"Path": "C:\\Users\\aidab\\OneDrive\\Escritorio\\CURSOS\\VIDEOJUEGOS_UNREAL_C++\\GIT\\UnrealCourse_22_23\\CryptRaider\\Source\\CryptRaiderEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

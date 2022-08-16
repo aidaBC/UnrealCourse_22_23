@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\aidab\\onedrive\\escritorio\\cursos\\videojuegos_unreal_c++\\git\\unrealcourse_22_23\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptraider\\tp_weaponcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\aidab\\onedrive\\escritorio\\cursos\\videojuegos_unreal_c++\\git\\unrealcourse_22_23\\cryptraider\\intermediate\\build\\win64\\cryptraidereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\aidab\\onedrive\\escritorio\\cursos\\videojuegos_unreal_c++\\git\\unrealcourse_22_23\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\development\\cryptraider\\definitions.cryptraider.h",
+            "c:\\users\\aidab\\onedrive\\escritorio\\cursos\\videojuegos_unreal_c++\\git\\unrealcourse_22_23\\cryptraider\\source\\cryptraider\\tp_weaponcomponent.h",
+            "c:\\users\\aidab\\onedrive\\escritorio\\cursos\\videojuegos_unreal_c++\\git\\unrealcourse_22_23\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptraider\\tp_weaponcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
