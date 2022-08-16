@@ -1,0 +1,1103 @@
+﻿Log file open, 08/11/22 12:57:32
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=10864)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CryptRaider
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:/Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/CryptRaider.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.1826] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="b0eabab94493797bb42b1286b61fc317"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.432500
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-0260584F4A36CF1E11D28A8DAEAD025D
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading IOS ini files took 0.07 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.07 seconds
+LogConfig: Display: Loading Android ini files took 0.07 seconds
+LogConfig: Display: Loading Linux ini files took 0.11 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogConfig: Display: Loading Mac ini files took 0.08 seconds
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin Paper2D
+LogConfig: Display: Loading TVOS ini files took 0.11 seconds
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogConfig: Display: Loading LinuxArm64 ini files took 0.12 seconds
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogConfig: Display: Loading Unix ini files took 0.10 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.07 seconds
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogConfig: Display: Loading Windows ini files took 0.08 seconds
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.1826] (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.08.11-10.57.33:761][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.08.11-10.57.33:761][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.08.11-10.57.33:761][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.08.11-10.57.33:761][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.08.11-10.57.33:761][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.08.11-10.57.33:761][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.08.11-10.57.33:761][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.08.11-10.57.33:761][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.08.11-10.57.33:761][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.08.11-10.57.33:761][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.08.11-10.57.33:761][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.08.11-10.57.33:761][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.08.11-10.57.33:761][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.08.11-10.57.33:761][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.08.11-10.57.33:761][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.08.11-10.57.33:761][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.08.11-10.57.33:761][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.08.11-10.57.33:761][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.08.11-10.57.33:761][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.08.11-10.57.33:761][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.08.11-10.57.33:761][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.08.11-10.57.33:761][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.08.11-10.57.33:761][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.08.11-10.57.33:761][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.08.11-10.57.33:761][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.08.11-10.57.33:761][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.08.11-10.57.33:761][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.08.11-10.57.33:761][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.08.11-10.57.33:761][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.08.11-10.57.33:761][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.08.11-10.57.33:761][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.08.11-10.57.33:761][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.08.11-10.57.33:761][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.08.11-10.57.33:761][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.08.11-10.57.33:761][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.08.11-10.57.33:761][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.08.11-10.57.33:761][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.08.11-10.57.33:761][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.08.11-10.57.33:761][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.08.11-10.57.33:761][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.08.11-10.57.33:762][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.08.11-10.57.33:762][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.08.11-10.57.33:762][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.08.11-10.57.33:762][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.08.11-10.57.33:762][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.08.11-10.57.33:762][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.08.11-10.57.33:762][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.08.11-10.57.33:762][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.08.11-10.57.33:762][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.08.11-10.57.33:762][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.08.11-10.57.33:762][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.08.11-10.57.33:762][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.08.11-10.57.33:762][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.08.11-10.57.33:762][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.08.11-10.57.33:762][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.08.11-10.57.33:762][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.08.11-10.57.33:762][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.08.11-10.57.33:765][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.08.11-10.57.33:765][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.08.11-10.57.33:765][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.08.11-10.57.33:765][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.08.11-10.57.33:765][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.08.11-10.57.33:765][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.08.11-10.57.33:765][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.08.11-10.57.33:765][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.08.11-10.57.33:765][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.08.11-10.57.33:765][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.08.11-10.57.33:765][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.08.11-10.57.33:791][  0]LogD3D12RHI: Aftermath initialized
+[2022.08.11-10.57.33:791][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.08.11-10.57.35:097][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1050 (Max supported Feature Level 12_1, shader model 6.4)
+[2022.08.11-10.57.35:097][  0]LogD3D12RHI: Adapter has 4021MB of dedicated video memory, 0MB of dedicated system memory, and 4038MB of shared system memory, 1 output[s]
+[2022.08.11-10.57.35:193][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) HD Graphics 630 (Max supported Feature Level 12_1, shader model 6.5)
+[2022.08.11-10.57.35:193][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 4038MB of shared system memory, 0 output[s]
+[2022.08.11-10.57.35:225][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.08.11-10.57.35:225][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 4038MB of shared system memory, 0 output[s]
+[2022.08.11-10.57.35:226][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.08.11-10.57.35:227][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.08.11-10.57.35:227][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.08.11-10.57.35:227][  0]LogHAL: Display: Platform has ~ 8 GB [8469164032 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.08.11-10.57.35:227][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.08.11-10.57.35:227][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.08.11-10.57.35:227][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.08.11-10.57.35:229][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.08.11-10.57.35:229][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/Config/WindowsEditor/Editor.ini]
+[2022.08.11-10.57.35:229][  0]LogInit: Computer: DESKTOP-57V99G8
+[2022.08.11-10.57.35:229][  0]LogInit: User: aidab
+[2022.08.11-10.57.35:229][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.08.11-10.57.35:229][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.08.11-10.57.35:229][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2022.08.11-10.57.35:229][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.08.11-10.57.35:229][  0]LogMemory: Process Physical Memory: 269.53 MB used, 277.49 MB peak
+[2022.08.11-10.57.35:229][  0]LogMemory: Process Virtual Memory: 215.80 MB used, 215.80 MB peak
+[2022.08.11-10.57.35:229][  0]LogMemory: Physical Memory: 3764.53 MB used,  4312.30 MB free, 8076.82 MB total
+[2022.08.11-10.57.35:229][  0]LogMemory: Virtual Memory: 6339.00 MB used,  10855.32 MB free, 17194.32 MB total
+[2022.08.11-10.57.35:229][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.08.11-10.57.35:241][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.08.11-10.57.35:262][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.08.11-10.57.35:263][  0]LogInit: Overriding language with editor language configuration option (en).
+[2022.08.11-10.57.35:263][  0]LogInit: Overriding language with editor locale configuration option (en).
+[2022.08.11-10.57.35:505][  0]LogInit: Setting process to per monitor DPI aware
+[2022.08.11-10.57.35:530][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.08.11-10.57.35:530][  0]LogWindowsTextInputMethodSystem:   - Español (España, internacional) - (Keyboard).
+[2022.08.11-10.57.35:530][  0]LogWindowsTextInputMethodSystem:   - Español (España, internacional) - Corrección de entrada táctil (TSF IME).
+[2022.08.11-10.57.35:530][  0]LogWindowsTextInputMethodSystem: Activated input method: Español (España, internacional) - (Keyboard).
+[2022.08.11-10.57.35:554][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.08.11-10.57.35:554][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.08.11-10.57.35:823][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.08.11-10.57.35:832][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.08.11-10.57.35:832][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.08.11-10.57.35:983][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.08.11-10.57.35:983][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.08.11-10.57.35:983][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.08.11-10.57.35:983][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.08.11-10.57.35:983][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.08.11-10.57.35:983][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.08.11-10.57.35:983][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.08.11-10.57.35:983][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.08.11-10.57.35:983][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.08.11-10.57.35:983][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is not supported
+[2022.08.11-10.57.36:069][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.08.11-10.57.36:077][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.08.11-10.57.36:092][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.08.11-10.57.36:104][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.08.11-10.57.36:104][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.08.11-10.57.36:185][  0]LogD3D12RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2022.08.11-10.57.36:185][  0]LogWindows: Attached monitors:
+[2022.08.11-10.57.36:185][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1030), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.08.11-10.57.36:185][  0]LogWindows: Found 1 attached monitors.
+[2022.08.11-10.57.36:185][  0]LogWindows: EnumDisplayDevices:
+[2022.08.11-10.57.36:185][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.08.11-10.57.36:185][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.08.11-10.57.36:186][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.08.11-10.57.36:186][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2022.08.11-10.57.36:186][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2022.08.11-10.57.36:186][  0]LogD3D12RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2022.08.11-10.57.36:186][  0]LogD3D12RHI:      Driver Date: Unknown
+[2022.08.11-10.57.36:186][  0]LogRHI: Texture pool is 2153 MB (70% of 3076 MB)
+[2022.08.11-10.57.36:186][  0]LogD3D12RHI: Async texture creation enabled
+[2022.08.11-10.57.36:186][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.08.11-10.57.36:202][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.08.11-10.57.36:212][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/CryptRaider.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Intermediate/TurnkeyReport_0.log" -log="C:/Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Intermediate/TurnkeyLog_0.log" -project="C:/Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/CryptRaider.uproject"  -platform=all'
+[2022.08.11-10.57.36:212][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/CryptRaider.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Intermediate/TurnkeyReport_0.log" -log="C:/Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Intermediate/TurnkeyLog_0.log" -project="C:/Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/CryptRaider.uproject"  -platform=all" ]
+[2022.08.11-10.57.36:247][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.08.11-10.57.36:260][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.08.11-10.57.36:260][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.08.11-10.57.36:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.08.11-10.57.36:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.08.11-10.57.36:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.08.11-10.57.36:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.08.11-10.57.36:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.08.11-10.57.36:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.08.11-10.57.36:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.08.11-10.57.36:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.08.11-10.57.36:276][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.08.11-10.57.36:276][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.08.11-10.57.36:319][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.08.11-10.57.36:320][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.08.11-10.57.36:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.08.11-10.57.36:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.08.11-10.57.36:332][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.08.11-10.57.36:332][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.08.11-10.57.36:332][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.08.11-10.57.36:332][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.08.11-10.57.36:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.08.11-10.57.36:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.08.11-10.57.36:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.08.11-10.57.36:347][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.08.11-10.57.36:347][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.08.11-10.57.36:357][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.08.11-10.57.36:357][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.08.11-10.57.36:357][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.08.11-10.57.36:357][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.08.11-10.57.36:357][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.08.11-10.57.36:370][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.08.11-10.57.36:375][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.08.11-10.57.36:375][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.08.11-10.57.36:375][  0]LogTargetPlatformManager:   ADPCM
+[2022.08.11-10.57.36:375][  0]LogTargetPlatformManager:   PCM
+[2022.08.11-10.57.36:380][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.08.11-10.57.36:380][  0]LogTargetPlatformManager:   BINKA
+[2022.08.11-10.57.36:380][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.08.11-10.57.36:380][  0]LogTargetPlatformManager:   OGG
+[2022.08.11-10.57.36:380][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.08.11-10.57.36:380][  0]LogTargetPlatformManager:   OPUS
+[2022.08.11-10.57.36:451][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.08.11-10.57.36:460][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.08.11-10.57.36:460][  0]LogTargetPlatformManager:   SF_METAL
+[2022.08.11-10.57.36:460][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.08.11-10.57.36:460][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.08.11-10.57.36:460][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.08.11-10.57.36:460][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.08.11-10.57.36:460][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.08.11-10.57.36:460][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.08.11-10.57.36:460][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.08.11-10.57.36:460][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.08.11-10.57.36:460][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.08.11-10.57.36:460][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.08.11-10.57.36:460][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.08.11-10.57.36:460][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.08.11-10.57.36:460][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.08.11-10.57.36:460][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.08.11-10.57.36:465][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.08.11-10.57.36:465][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.08.11-10.57.36:465][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.08.11-10.57.36:465][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.08.11-10.57.36:465][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.08.11-10.57.36:466][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.08.11-10.57.36:466][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.08.11-10.57.36:466][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.08.11-10.57.36:466][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.08.11-10.57.36:466][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.08.11-10.57.36:466][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.08.11-10.57.36:467][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.08.11-10.57.36:470][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.08.11-10.57.36:471][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.08.11-10.57.36:471][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.08.11-10.57.36:471][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.08.11-10.57.36:501][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.08.11-10.57.36:502][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.08.11-10.57.36:502][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.08.11-10.57.36:537][  0]LogDerivedDataCache: Speed tests for C:/Users/aidab/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.04 seconds
+[2022.08.11-10.57.36:537][  0]LogDerivedDataCache: Display: Performance to C:/Users/aidab/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.08ms. RandomReadSpeed=194.33MBs, RandomWriteSpeed=30.73MBs. Assigned SpeedClass 'Local'
+[2022.08.11-10.57.36:538][  0]LogDerivedDataCache: Using Local data cache path C:/Users/aidab/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.08.11-10.57.36:539][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.08.11-10.57.36:539][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.08.11-10.57.36:552][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.08.11-10.57.36:552][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.08.11-10.57.36:553][  0]LogShaderCompilers: Guid format shader working directory is -69 characters bigger than the processId version (../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Intermediate/Shaders/WorkingDirectory/12832/).
+[2022.08.11-10.57.36:553][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/aidab/AppData/Local/Temp/UnrealShaderWorkingDir/DB955810413C0192981CA9B087FC729F/'.
+[2022.08.11-10.57.36:554][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.08.11-10.57.36:554][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2022.08.11-10.57.39:161][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.08.11-10.57.39:161][  0]LogSlate: Using FreeType 2.10.0
+[2022.08.11-10.57.39:162][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.08.11-10.57.39:231][  0]LogAssetRegistry: FAssetRegistry took 0.0257 seconds to start up
+[2022.08.11-10.57.39:243][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.08.11-10.57.39:552][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.08.11-10.57.39:553][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.08.11-10.57.40:156][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.08.11-10.57.40:156][  0]LogDeviceProfileManager: Active device profile: [0000072FECA8B440][0000072FDF735000 50] WindowsEditor
+[2022.08.11-10.57.40:156][  0]LogDeviceProfileManager: Profiles: [0000072FECA8AF00][0000072FDF73A000 50] Windows, [0000072FECA8B440][0000072FDF735000 50] WindowsEditor, [0000072FECA871C0][0000072FDF732800 50] WindowsServer, [0000072FECA84D00][0000072FDF64A000 50] WindowsClient, [0000072FECA8B280][0000072FDF737800 50] IOS, [0000072FECA84280][0000072FECDA0000 50] iPadAir2, [0000072FECA86C80][0000072FECDA7800 50] IPadPro, [0000072FECA89BC0][0000072FECDA5000 50] iPadAir3, [0000072FECA855C0][0000072FECDAA000 50] iPadAir4, [0000072FECA886C0][0000072FECDAC800 50] iPadMini4, [0000072FECA86AC0][0000072FCFF25000 50] iPadMini5, [0000072FECA84B40][0000072FECDB0000 50] iPadMini6, [0000072FECA8FC00][0000072FECDBA000 50] iPhone6S, [0000072FECA8C940][0000072FECDB7800 50] iPhone7, [0000072FECA8CE80][0000072FECDB5000 50] iPodTouch7, [0000072FECA89840][0000072FECDBC800 50] iPhone6SPlus, [0000072FECA87FC0][0000072FECDA2800 50] iPhone7Plus, [0000072FECA894C0][0000072FECDE0000 50] iPhoneSE, [0000072FECA8A2C0][0000072FECDE5000 50] iPhone8, [0000072FECA8AB80][0000072FECDE7800 50] iPhone8Plus, [0000072FECA8BB40][0000072FECDEA000 50] iPhoneX, [0000072FECA89140][0000072FECDEC800 50] iPhoneXS, [0000072FECA8A480][0000072FECDB2800 50] iPhoneXSMax, [0000072FECA8DE40][0000072FECE00000 50] iPhoneXR, [0000072FECA83D40][0000072FECE05000 50] iPhone11, [0000072FECA88F80][0000072FECE07800 50] iPhone11Pro, [0000072FECA86580][0000072FECE0A000 50] iPhone11ProMax, [0000072FECA8A800][0000072FECE0C800 50] iPhoneSE2, [0000072FECA8C400][0000072FECDE2800 50] iPhone12Mini, [0000072FECA8B7C0][0000072FECE10000 50] iPhone12, [0000072FECA8C780][0000072FECE15000 50] iPhone12Pro, [0000072FECA85400][0000072FECE17800 50] iPhone12ProMax, [0000072FECA8D580][0000072FECE1A000 50] iPhone13Mini, [0000072FECA87E00][0000072FECE1C800 50] iPhone13, [0000072FECA8D3C0][0000072FECE02800 50] iPhone13Pro, [0000072FECA83640][0000072FECE20000 50] iPhone13ProMax, [0000072FECA8D200][0000072FECE25000 50] iPadPro105, [0000072FECA8B600][0000072FECE27800 50] iPadPro129, [0000072FECA8CB00][0000072FECE2A000 50] iPadPro97, [0000072FECA8FDC0][0000072FECE2C800 50] iPadPro2_129, [0000072FECA8F6C0][0000072FECE12800 50] iPad5, [0000072FECA8AD40][0000072FECE40000 50] iPad6, [0000072FECA8EC40][0000072FECE45000 50] iPad7, [0000072FECA88180][0000072FECE47800 50] iPad8, [0000072FECA89680][0000072FECE4A000 50] iPad9, [0000072FECA85080][0000072FECE4C800 50] iPadPro11, [0000072FECA8A640][0000072FECE22800 50] iPadPro2_11, [0000072FECA87700][0000072FECE50000 50] iPadPro3_11, [0000072FECA878C0][0000072FECE55000 50] iPadPro3_129, [0000072FECA840C0][0000072FECE57800 50] iPadPro4_129, [0000072FECA8D740][0000072FECE5A000 50] iPadPro5_129, [0000072FECA89A00][0000072FECE5C800 50] AppleTV, [0000072FECA85CC0][0000072FECE42800 50] AppleTV4K, [0000072FECA863C0][0000072FECE60000 50] TVOS, [0000072FECE82A00][0000072FECE67800 50] Mac, [0000072FECE82D80][0000072FECE65000 50] MacEditor, [0000072FECE80000][0000072FECE6A000 50] MacClient, [0000072FECE81A40][0000072FECE6C800 50] MacServer, [0000072FECE85E80][0000072FECE90000 50] Linux, [0000072FECE85400][0000072FECE92800 50] LinuxEditor, [0000072FECE81DC0][0000072FECE97800 50] LinuxArm64Editor, [0000072FECE88880][0000072FECE9A000 50] LinuxArm64, [0000072FECE81340][0000072FECE9C800 50] LinuxClient, [0000072FECE86E40][0000072FECE52800 50] LinuxArm64Client, [0000072FECE801C0][0000072FECE95000 50] LinuxServer, [0000072FECE86200][0000072FECE70000 50] LinuxArm64Server, [0000072FECE863C0][0000072FECE75000 50] Android, [0000072FECE808C0][0000072FECE77800 50] Android_Preview_OpenGL, [0000072FECE86900][0000072FECE7A000 50] Android_Preview_Vulkan, [0000072FECE81C00][0000072FECE7C800 50] Android_Low, [0000072FECE86040][0000072FECE62800 50] Android_Mid, [0000072FECE84EC0][0000072FECEA0000 50] Android_High, [0000072FECE80700][0000072FECEA5000 50] Android_Default, [0000072FECE87000][0000072FECEA7800 50] Android_Adreno4xx, [0000072FECE88340][0000072FECEAA000 50] Android_Adreno5xx_Low, [0000072FECE82680][0000072FECEAC800 50] Android_Adreno5xx, [0000072FECE81F80][0000072FECE72800 50] Android_Adreno6xx, [0000072FECE84440][0000072FECEB0000 50] Android_Adreno6xx_Vulkan, [0000072FECE85940][0000072FECEB5000 50] Android_Adreno7xx, [0000072FECE80540][0000072FECEB7800 50] Android_Adreno7xx_Vulkan, [0000072FECE86740][0000072FECEBA000 50] Android_Mali_T6xx, [0000072FECE87380][0000072FECEBC800 50] Android_Mali_T7xx, [0000072FECE82BC0][0000072FECEA2800 50] Android_Mali_T8xx, [0000072FECE80C40][0000072FECEC0000 50] Android_Mali_G71, [0000072FECE87E00][0000072FECEC5000 50] Android_Mali_G72, [0000072FECE86AC0][0000072FECEC7800 50] Android_Mali_G72_Vulkan, [0000072FECE83D40][0000072FECECA000 50] Android_Mali_G76, [0000072FECE80A80][0000072FECECC800 50] Android_Mali_G76_Vulkan, [0000072FECE84B40][0000072FECEB2800 50] Android_Mali_G77, [0000072FECE86C80][0000072FECED0000 50] Android_Mali_G77_Vulkan, [0000072FECE88180][0000072FECED5000 50] Android_Mali_G78, [0000072FECE83100][0000072FECED7800 50] Android_Mali_G78_Vulkan, [0000072FECE82300][0000072FECEDA000 50] Android_Mali_G710, [0000072FECE87C40][0000072FECEDC800 50] Android_Mali_G710_Vulkan, [0000072FECE83B80][0000072FECEC2800 50] Android_Xclipse_920, [0000072FECE80380][0000072FECEE0000 50] Android_Xclipse_920_Vulkan, [0000072FECE88500][0000072FECEE5000 50] Android_Vulkan_SM5, [0000072FECE82840][0000072FECEE7800 50] Android_PowerVR_G6xxx, [0000072FECE878C0][0000072FECEEA000 50] Android_PowerVR_GT7xxx, [0000072FECE84600][0000072FECEEC800 50] Android_PowerVR_GE8xxx, [0000072FECE87FC0][0000072FECED2800 50] Android_PowerVR_GM9xxx, [0000072FECE886C0][0000072FECEF0000 50] Android_PowerVR_GM9xxx_Vulkan, [0000072FECE847C0][0000072FECEF5000 50] Android_TegraK1, [0000072FECE89300][0000072FECEF7800 50] Android_Unknown_Vulkan, [0000072FECE80FC0][0000072FECEFA000 50] Oculus_Quest, [0000072FECE82140][0000072FECEFC800 50] Oculus_Quest2, [0000072FECE81180][0000072FECEE2800 50] HoloLens, 
+[2022.08.11-10.57.40:156][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.08.11-10.57.40:161][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.08.11-10.57.40:161][  0]LogTurnkeySupport: Turnkey Platform: HoloLens: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.08.11-10.57.40:161][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.08.11-10.57.40:161][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.08.11-10.57.40:161][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.08.11-10.57.40:161][  0]LogTurnkeySupport: Turnkey Platform: TVOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.08.11-10.57.40:161][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.08.11-10.57.40:196][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.08.11-10.57.40:510][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.08.11-10.57.40:510][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.08.11-10.57.40:510][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.08.11-10.57.40:510][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.08.11-10.57.40:510][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.08.11-10.57.40:532][  0]LogNetVersion: CryptRaider 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 380886935)
+[2022.08.11-10.57.40:732][  0]LogSlate: Border
+[2022.08.11-10.57.40:732][  0]LogSlate: BreadcrumbButton
+[2022.08.11-10.57.40:732][  0]LogSlate: Default
+[2022.08.11-10.57.40:732][  0]LogSlate: Icons.Save
+[2022.08.11-10.57.40:732][  0]LogSlate: Icons.Toolbar.Settings
+[2022.08.11-10.57.40:733][  0]LogSlate: ListView
+[2022.08.11-10.57.40:733][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.08.11-10.57.40:733][  0]LogSlate: SoftwareCursor_Grab
+[2022.08.11-10.57.40:733][  0]LogSlate: TableView.DarkRow
+[2022.08.11-10.57.40:733][  0]LogSlate: TableView.Row
+[2022.08.11-10.57.40:733][  0]LogSlate: TreeView
+[2022.08.11-10.57.41:031][  0]SourceControl: Source control is disabled
+[2022.08.11-10.57.41:075][  0]SourceControl: Source control is disabled
+[2022.08.11-10.57.41:075][  0]SourceControl: Source control is disabled
+[2022.08.11-10.57.41:268][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.08.11-10.57.41:268][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2022.08.11-10.57.41:268][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.08.11-10.57.41:808][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: F1015A0C490453A20D8021A575B9902B | Instance: 16FAFE3043159CF361C99EA76C68831E (DESKTOP-57V99G8-12832).
+[2022.08.11-10.57.41:861][  0]LogPython: Using Python 3.9.7
+[2022.08.11-10.57.43:097][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.08.11-10.57.43:104][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.08.11-10.57.43:395][  0]SourceControl: Source control is disabled
+[2022.08.11-10.57.43:403][  0]SourceControl: Source control is disabled
+[2022.08.11-10.57.43:407][  0]SourceControl: Source control is disabled
+[2022.08.11-10.57.43:426][  0]LogUProjectInfo: Found projects:
+[2022.08.11-10.57.43:868][  0]LogOpenImageDenoise: OIDN starting up
+[2022.08.11-10.57.43:942][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.08.11-10.57.43:975][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.08.11-10.57.43:975][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.08.11-10.57.44:116][  0]LogCollectionManager: Loaded 0 collections in 0.003774 seconds
+[2022.08.11-10.57.44:236][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/Collections/' took 0.00s
+[2022.08.11-10.57.44:236][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/Developers/aidab/Collections/' took 0.00s
+[2022.08.11-10.57.44:236][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/Collections/' took 0.00s
+[2022.08.11-10.57.44:789][  0]LogEngine: Initializing Engine...
+[2022.08.11-10.57.44:810][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.08.11-10.57.44:812][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.08.11-10.57.45:230][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.08.11-10.57.45:231][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.11-10.57.45:246][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.11-10.57.45:294][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.08.11-10.57.45:295][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.08.11-10.57.45:332][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.08.11-10.57.45:333][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.08.11-10.57.45:333][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.08.11-10.57.45:334][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.08.11-10.57.45:334][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.08.11-10.57.45:334][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.11-10.57.45:334][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.11-10.57.45:334][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.11-10.57.45:334][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.11-10.57.45:334][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.11-10.57.45:334][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.11-10.57.45:334][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.11-10.57.45:334][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.11-10.57.45:335][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.11-10.57.45:335][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.11-10.57.45:335][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.11-10.57.45:347][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.11-10.57.45:911][  0]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek High Definition Audio)
+[2022.08.11-10.57.45:913][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.11-10.57.45:918][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.11-10.57.45:918][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.11-10.57.45:921][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.08.11-10.57.45:922][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.08.11-10.57.45:924][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.08.11-10.57.45:924][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.08.11-10.57.45:924][  0]LogInit: FAudioDevice initialized.
+[2022.08.11-10.57.45:924][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.08.11-10.57.45:924][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.08.11-10.57.45:924][  0]LogInit: Texture streaming: Enabled
+[2022.08.11-10.57.45:983][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.08.11-10.57.46:002][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.08.11-10.57.46:003][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={C5CF2C94-46E1-BC5B-907F-4EBC256A0A00}
+[2022.08.11-10.57.46:150][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.08.11-10.57.46:159][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.08.11-10.57.46:159][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: CryptRaiderEditor Win64 Development
+[2022.08.11-10.57.49:907][  0]LogLiveCoding: Display: First instance in process group "UE_CryptRaider_0x36728574", spawning console
+[2022.08.11-10.57.49:907][  0]LogLiveCoding: Display: Waiting for server
+[2022.08.11-10.57.49:907][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.08.11-10.57.49:966][  0]LogInit: Transaction tracking system initialized
+[2022.08.11-10.57.50:095][  0]BlueprintLog: New page: Editor Load
+[2022.08.11-10.57.50:410][  0]LocalizationService: Localization service is disabled
+[2022.08.11-10.57.50:488][  0]TimingProfiler: Initialize
+[2022.08.11-10.57.50:488][  0]TimingProfiler: OnSessionChanged
+[2022.08.11-10.57.50:488][  0]LoadingProfiler: Initialize
+[2022.08.11-10.57.50:488][  0]LoadingProfiler: OnSessionChanged
+[2022.08.11-10.57.50:488][  0]NetworkingProfiler: Initialize
+[2022.08.11-10.57.50:488][  0]NetworkingProfiler: OnSessionChanged
+[2022.08.11-10.57.50:488][  0]MemoryProfiler: Initialize
+[2022.08.11-10.57.50:488][  0]MemoryProfiler: OnSessionChanged
+[2022.08.11-10.57.51:632][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/' took 0.03s
+[2022.08.11-10.57.51:632][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.08.11-10.57.51:753][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.08.11-10.57.51:756][  0]SourceControl: Source control is disabled
+[2022.08.11-10.57.51:756][  0]LogUnrealEdMisc: Loading editor; pre map load, took 21.141
+[2022.08.11-10.57.51:756][  0]Cmd: MAP LOAD FILE="../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.11-10.57.51:757][  0]LightingResults: New page: Lighting Build
+[2022.08.11-10.57.51:768][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.08.11-10.57.51:768][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.11-10.57.51:768][  0]MapCheck: New page: Map Check
+[2022.08.11-10.57.51:768][  0]LightingResults: New page: Lighting Build
+[2022.08.11-10.57.51:777][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.11-10.57.51:781][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.08.11-10.57.52:075][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MyDungeon'.
+[2022.08.11-10.57.52:075][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.11-10.57.52:075][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.11-10.57.52:076][  0]LogAIModule: Creating AISystem for world MyDungeon
+[2022.08.11-10.57.52:086][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.11-10.57.52:101][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.08.11-10.57.52:101][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.11-10.57.52:102][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.284ms to complete.
+[2022.08.11-10.57.52:102][  0]LogFileHelpers: Loading map 'MyDungeon' took 0.346
+[2022.08.11-10.57.52:123][  0]LogUnrealEdMisc: Total Editor Startup Time, took 21.507
+[2022.08.11-10.57.52:123][  0]LogShaderCompilers: Display: ================================================
+[2022.08.11-10.57.52:123][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.08.11-10.57.52:123][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.08.11-10.57.52:123][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.08.11-10.57.52:123][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.00%
+[2022.08.11-10.57.52:123][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.08.11-10.57.52:123][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.08.11-10.57.52:123][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.08.11-10.57.52:123][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.08.11-10.57.52:123][  0]LogShaderCompilers: Display: ================================================
+[2022.08.11-10.57.52:294][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.11-10.57.52:300][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.11-10.57.52:307][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.11-10.57.52:314][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.11-10.57.52:384][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.08.11-10.57.52:384][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.11-10.57.52:385][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.08.11-10.57.52:385][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.11-10.57.52:386][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.08.11-10.57.52:386][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.11-10.57.52:387][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.08.11-10.57.52:387][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.11-10.57.52:388][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.08.11-10.57.52:388][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.11-10.57.52:389][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.08.11-10.57.52:389][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.11-10.57.52:390][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.08.11-10.57.52:390][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.11-10.57.52:391][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.08.11-10.57.52:391][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.11-10.57.52:392][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.08.11-10.57.52:392][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.11-10.57.52:393][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.08.11-10.57.52:393][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.11-10.57.52:393][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.08.11-10.57.52:697][  0]LogSlate: Took 0.000510 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.08.11-10.57.52:706][  0]LogSlate: Took 0.000874 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.08.11-10.57.52:711][  0]LogSlate: Took 0.000365 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.08.11-10.57.52:713][  0]LogSlate: Took 0.000560 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.08.11-10.57.52:757][  0]LogViewport: Scene viewport resized to 1167x858, mode Windowed.
+[2022.08.11-10.57.53:842][  0]LogStall: Startup...
+[2022.08.11-10.57.53:845][  0]LogStall: Startup complete.
+[2022.08.11-10.57.53:860][  0]LogLoad: (Engine Initialization) Total time: 23.25 seconds
+[2022.08.11-10.57.53:861][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.08.11-10.57.53:934][  0]LogAssetRegistry: Asset discovery search completed in 14.7059 seconds
+[2022.08.11-10.57.53:949][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.08.11-10.57.53:987][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.08.11-10.57.59:788][165]LogViewport: Scene viewport resized to 580x426, mode Windowed.
+[2022.08.11-10.57.59:832][165]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.08.11-10.57.59:898][165]LogViewport: Scene viewport resized to 580x426, mode Windowed.
+[2022.08.11-10.57.59:945][165]LogViewport: Scene viewport resized to 580x426, mode Windowed.
+[2022.08.11-10.57.59:988][165]LogViewport: Scene viewport resized to 1055x776, mode Windowed.
+[2022.08.11-10.58.00:008][166]LogViewport: Scene viewport resized to 580x426, mode Windowed.
+[2022.08.11-10.58.03:691][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.08.11-10.58.03:696][399]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.005139 seconds
+[2022.08.11-10.58.03:769][399]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.11-10.58.03:772][399]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeonE2B39703419C54D867A1C988CB9CA15E.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.11-10.58.03:823][399]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.11-10.58.03:823][399]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.11-10.58.15:537][  2]LogSlate: Took 0.000344 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.08.11-10.58.15:544][  2]LogSlate: Took 0.000369 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.08.11-10.58.21:649][294]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2022.08.11-10.58.21:650][294]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2022.08.11-10.58.21:650][294]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones as actor: StaticMeshActor /Game/MyDungeon.MyDungeon:PersistentLevel.StaticMeshActor_123
+[2022.08.11-10.58.25:991][538]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2022.08.11-10.58.25:991][538]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2022.08.11-10.58.25:992][538]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones as actor: StaticMeshActor /Game/MyDungeon.MyDungeon:PersistentLevel.StaticMeshActor_127
+[2022.08.11-10.58.42:169][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.08.11-10.58.42:270][156]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.11-10.58.42:273][156]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeon8D5EF4D747940C417D0B2680DC0F67FE.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.11-10.58.42:320][156]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.11-10.58.42:320][156]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.11-10.58.50:006][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.08.11-10.58.50:103][571]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.11-10.58.50:105][571]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeon54195EBD491F51BC4F11BDBD26C09494.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.11-10.58.50:143][571]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.11-10.58.50:143][571]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.11-10.59.00:385][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.08.11-10.59.00:468][ 32]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.11-10.59.00:470][ 32]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeon06CCC48D4E343C881C541CBF6EAF0E80.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.11-10.59.00:506][ 32]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.11-10.59.00:506][ 32]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.11-10.59.06:089][297]Cmd: EDIT COPY
+[2022.08.11-10.59.06:301][306]Cmd: EDIT PASTE
+[2022.08.11-10.59.13:136][548]Cmd: EDIT COPY
+[2022.08.11-10.59.13:470][561]Cmd: EDIT PASTE
+[2022.08.11-10.59.39:134][397]LogDerivedDataCache: C:/Users/aidab/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.594 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.11-10.59.39:864][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.08.11-10.59.39:986][420]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.11-10.59.39:989][420]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeonB8CB49EB49640FF54A0F9C947A1C5EC9.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.11-10.59.40:039][420]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.11-10.59.40:039][420]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.11-10.59.42:957][526]Cmd: EDIT COPY
+[2022.08.11-10.59.43:847][558]Cmd: EDIT PASTE
+[2022.08.11-11.00.05:152][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.08.11-11.00.05:249][203]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.11-11.00.05:252][203]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeon5496F0C34506BE6011516F9D9C0BCA72.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.11-11.00.05:333][203]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.11-11.00.05:333][203]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.11-11.00.27:218][969]Cmd: EDIT COPY
+[2022.08.11-11.00.27:475][978]Cmd: EDIT PASTE
+[2022.08.11-11.00.35:793][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.08.11-11.00.35:902][371]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.11-11.00.35:905][371]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeonA738EC6F4BA3B9C296421F8C7FFD8B31.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.11-11.00.35:963][371]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.11-11.00.35:963][371]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.11-11.00.40:406][499]Cmd: EDIT COPY
+[2022.08.11-11.00.40:658][507]Cmd: EDIT PASTE
+[2022.08.11-11.00.51:281][824]Cmd: DELETE
+[2022.08.11-11.00.51:281][824]Cmd: ACTOR DELETE
+[2022.08.11-11.00.51:478][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.11-11.00.51:492][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.08.11-11.00.51:493][824]LogEditorActor: Deleted 1 Actors (0.146 secs)
+[2022.08.11-11.00.53:391][878]Cmd: EDIT COPY
+[2022.08.11-11.00.53:581][883]Cmd: EDIT PASTE
+[2022.08.11-11.01.12:121][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.08.11-11.01.12:250][451]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.11-11.01.12:254][451]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeon4A180D2F416841B4D4B8D4983A0004B7.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.11-11.01.12:322][451]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.11-11.01.12:322][451]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.11-11.01.31:529][163]Cmd: EDIT COPY
+[2022.08.11-11.01.31:738][170]Cmd: EDIT PASTE
+[2022.08.11-11.01.31:749][170]LogWindows: Warning: OpenClipboard failed with error code 5
+[2022.08.11-11.01.35:496][298]Cmd: TRANSACTION UNDO
+[2022.08.11-11.01.35:496][298]LogEditorTransaction: Undo Marquee Select
+[2022.08.11-11.03.41:548][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.08.11-11.03.41:666][400]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.11-11.03.41:669][400]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeonA76F140648FC1EA2592B3C801FEF7C75.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.11-11.03.41:713][400]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.11-11.03.41:713][400]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.11-11.03.44:901][492]Cmd: EDIT COPY
+[2022.08.11-11.03.45:066][497]Cmd: EDIT PASTE
+[2022.08.11-11.04.08:093][319]Cmd: EDIT COPY
+[2022.08.11-11.04.09:349][363]Cmd: EDIT PASTE
+[2022.08.11-11.04.25:463][806]Cmd: EDIT COPY
+[2022.08.11-11.04.25:605][809]Cmd: EDIT PASTE
+[2022.08.11-11.05.07:314][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.08.11-11.05.07:431][995]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.11-11.05.07:434][995]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeonD87B3B2A45B85AFF3602C2B1AEF249BE.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.11-11.05.07:493][995]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.11-11.05.07:493][995]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.11-11.05.19:046][338]Cmd: EDIT COPY
+[2022.08.11-11.05.20:379][381]Cmd: EDIT PASTE
+[2022.08.11-11.05.28:469][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.08.11-11.05.28:580][579]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.11-11.05.28:583][579]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeonEF8D5BD84083122B0F7F7BB71708B7C7.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.11-11.05.28:662][579]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.11-11.05.28:662][579]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.11-11.06.12:664][179]Cmd: EDIT COPY
+[2022.08.11-11.06.15:958][308]Cmd: EDIT PASTE
+[2022.08.11-11.06.49:034][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.08.11-11.06.49:163][426]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.11-11.06.49:167][426]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeonA65F364F4E02A09434516F85F2DE888B.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.11-11.06.49:216][426]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.11-11.06.49:216][426]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.11-11.07.32:218][945]Cmd: EDIT COPY
+[2022.08.11-11.07.33:104][980]Cmd: EDIT PASTE
+[2022.08.11-11.08.00:872][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.08.11-11.08.01:024][373]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.11-11.08.01:028][373]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeon2130B3CE4C0ACA9C86769EA0AC60E888.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.11-11.08.01:089][373]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.11-11.08.01:089][373]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.11-11.08.05:057][495]Cmd: TRANSACTION UNDO
+[2022.08.11-11.08.05:057][495]LogEditorTransaction: Undo Move Elements
+[2022.08.11-11.08.15:784][884]Cmd: EDIT COPY
+[2022.08.11-11.08.16:860][928]Cmd: EDIT PASTE
+[2022.08.11-11.08.29:251][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.08.11-11.08.29:368][373]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.11-11.08.29:371][373]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeonB570E85747079ED5EC8867AF2ACF5A2C.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.11-11.08.29:423][373]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.11-11.08.29:423][373]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.11-11.08.41:430][831]Cmd: TRANSACTION UNDO
+[2022.08.11-11.08.41:430][831]LogEditorTransaction: Undo Rotate Elements
+[2022.08.11-11.08.42:323][850]Cmd: EDIT COPY
+[2022.08.11-11.08.42:642][858]Cmd: EDIT PASTE
+[2022.08.11-11.09.04:757][637]Cmd: EDIT COPY
+[2022.08.11-11.09.05:179][653]Cmd: EDIT PASTE
+[2022.08.11-11.09.27:474][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.08.11-11.09.27:597][559]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.11-11.09.27:600][559]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeonFD4A81674F20C1B728E7899FFF6A63D2.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.11-11.09.27:677][559]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.11-11.09.27:677][559]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.11-11.09.30:548][664]Cmd: EDIT COPY
+[2022.08.11-11.09.30:747][671]Cmd: EDIT PASTE
+[2022.08.11-11.09.43:671][ 65]Cmd: EDIT COPY
+[2022.08.11-11.09.46:563][168]Cmd: EDIT COPY
+[2022.08.11-11.09.50:529][329]Cmd: EDIT COPY
+[2022.08.11-11.09.50:766][336]Cmd: EDIT PASTE
+[2022.08.11-11.09.54:890][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.08.11-11.09.55:011][442]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.11-11.09.55:014][442]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeonEC5B71604A729F4BA99291A6B101872B.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.11-11.09.55:071][442]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.11-11.09.55:071][442]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.11-11.10.49:181][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.08.11-11.10.49:305][466]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.11-11.10.49:308][466]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeonBB3B23CA46ADFBB70362BE9BCEEB7BBE.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.11-11.10.49:355][466]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.11-11.10.49:355][466]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.11-11.11.00:067][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.08.11-11.11.00:225][792]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.11-11.11.00:228][792]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeon2FC4FD8C492B9E90B4E735B354898A97.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.11-11.11.00:289][792]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.11-11.11.00:289][792]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.11-11.11.30:814][742]Cmd: EDIT COPY
+[2022.08.11-11.11.31:292][758]Cmd: EDIT PASTE
+[2022.08.11-11.11.41:843][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.08.11-11.11.41:976][ 83]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.11-11.11.41:979][ 83]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeonDEBFB0104ECD3085664ED2BE24D16299.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.11-11.11.42:026][ 83]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.11-11.11.42:027][ 83]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.11-11.12.10:901][133]Cmd: EDIT COPY
+[2022.08.11-11.12.11:661][161]Cmd: EDIT PASTE
+[2022.08.11-11.12.36:789][878]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.08.11-11.12.36:941][878]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.11-11.12.36:945][878]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeonCF2D831C40D8D1D88FE32898688D8945.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.11-11.12.36:998][878]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.11-11.12.36:998][878]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.11-11.12.52:466][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.08.11-11.12.52:608][477]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.11-11.12.52:611][477]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeon13C6D24B423246A94F45FA9F78DDDEA4.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.11-11.12.52:663][477]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.11-11.12.52:663][477]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.11-11.13.04:633][859]Cmd: EDIT COPY
+[2022.08.11-11.13.05:622][897]Cmd: EDIT PASTE
+[2022.08.11-11.13.07:676][966]Cmd: TRANSACTION UNDO
+[2022.08.11-11.13.07:677][966]LogEditorTransaction: Undo Paste
+[2022.08.11-11.13.09:989][  2]Cmd: EDIT COPY
+[2022.08.11-11.13.10:190][ 10]Cmd: EDIT PASTE
+[2022.08.11-11.13.26:058][528]Cmd: EDIT COPY
+[2022.08.11-11.13.26:413][541]Cmd: EDIT PASTE
+[2022.08.11-11.14.07:216][798]Cmd: EDIT COPY
+[2022.08.11-11.14.07:532][809]Cmd: EDIT PASTE
+[2022.08.11-11.14.19:268][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.08.11-11.14.19:406][ 89]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.11-11.14.19:409][ 89]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeon177104B3420CE637A006CE991E83D09D.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.11-11.14.19:460][ 89]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.11-11.14.19:460][ 89]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.11-11.14.47:047][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.08.11-11.14.47:183][176]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.11-11.14.47:186][176]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeonBB64F1934FDFD444269D9C81F10346ED.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.11-11.14.47:270][176]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.11-11.14.47:270][176]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.11-11.15.05:820][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.08.11-11.15.05:963][787]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.11-11.15.05:966][787]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeon48DFDEA244D5ED1C72AEC6905E4FCEF5.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.11-11.15.06:011][787]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.11-11.15.06:011][787]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.11-11.15.10:775][955]Cmd: EDIT COPY
+[2022.08.11-11.15.11:444][979]Cmd: EDIT PASTE
+[2022.08.11-11.15.16:209][105]Cmd: TRANSACTION UNDO
+[2022.08.11-11.15.16:209][105]LogEditorTransaction: Undo Move Elements
+[2022.08.11-11.16.11:332][939]Cmd: EDIT COPY
+[2022.08.11-11.16.11:543][945]Cmd: EDIT PASTE
+[2022.08.11-11.16.32:149][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.08.11-11.16.32:290][621]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.11-11.16.32:293][621]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeonE141FB7D44EA7581307A058CE2117DD8.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.11-11.16.32:349][621]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.11-11.16.32:349][621]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.11-11.16.46:256][115]Cmd: EDIT COPY
+[2022.08.11-11.16.46:485][124]Cmd: EDIT PASTE
+[2022.08.11-11.16.58:915][705]Cmd: POLY SELECT ADJACENT COPLANARS
+[2022.08.11-11.16.59:972][737]Cmd: POLY SELECT MATCHING TEXTURE
+[2022.08.11-11.18.18:073][470]Cmd: EDIT COPY
+[2022.08.11-11.18.18:428][482]Cmd: EDIT PASTE
+[2022.08.11-11.18.30:265][825]Cmd: EDIT COPY
+[2022.08.11-11.18.30:511][831]Cmd: EDIT PASTE
+[2022.08.11-11.18.35:815][967]Cmd: EDIT COPY
+[2022.08.11-11.18.36:000][972]Cmd: EDIT PASTE
+[2022.08.11-11.18.41:317][117]Cmd: EDIT COPY
+[2022.08.11-11.18.41:521][123]Cmd: EDIT PASTE
+[2022.08.11-11.18.52:837][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.08.11-11.18.52:993][425]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.11-11.18.52:997][425]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeon1F13B810455A672E08AA16922CA0F29F.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.11-11.18.53:054][425]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.11-11.18.53:054][425]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.11-11.20.11:081][ 13]Cmd: EDIT COPY
+[2022.08.11-11.20.11:882][ 40]Cmd: EDIT PASTE
+[2022.08.11-11.21.18:509][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.08.11-11.21.18:622][906]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.11-11.21.18:624][906]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeon2A30D06045AA4BDC357ABABBE599D77D.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.11-11.21.18:666][906]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.11-11.21.18:666][906]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.11-11.22.44:246][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.08.11-11.22.44:425][371]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.11-11.22.44:429][371]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeon8BC9BC3841B0AE608B65C88A8B78E8E8.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.11-11.22.44:477][371]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.11-11.22.44:478][371]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.11-11.22.46:557][421]Cmd: EDIT COPY
+[2022.08.11-11.22.46:934][431]Cmd: EDIT PASTE
+[2022.08.11-11.23.27:413][596]Cmd: EDIT COPY
+[2022.08.11-11.23.28:523][632]Cmd: EDIT PASTE
+[2022.08.11-11.23.39:182][953]Cmd: EDIT COPY
+[2022.08.11-11.23.39:993][980]Cmd: EDIT PASTE
+[2022.08.11-11.23.44:765][ 85]Cmd: EDIT COPY
+[2022.08.11-11.23.44:950][ 90]Cmd: EDIT PASTE
+[2022.08.11-11.23.48:814][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.08.11-11.23.48:948][173]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.11-11.23.48:951][173]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeon68BFE3C34B07D902AF9F8EA6BEBA7D5C.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.11-11.23.49:003][173]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.11-11.23.49:003][173]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.11-11.23.53:521][294]Cmd: EDIT COPY
+[2022.08.11-11.23.53:721][300]Cmd: EDIT PASTE
+[2022.08.11-11.24.35:659][614]Cmd: EDIT COPY
+[2022.08.11-11.24.36:268][639]Cmd: EDIT PASTE
+[2022.08.11-11.24.48:373][959]Cmd: EDIT COPY
+[2022.08.11-11.24.49:898][  4]Cmd: EDIT PASTE
+[2022.08.11-11.25.13:947][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.08.11-11.25.14:074][768]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.11-11.25.14:077][768]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeon5A5166464743237EE0F774AE18845C5C.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.11-11.25.14:119][768]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.11-11.25.14:120][768]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.11-11.25.20:998][968]Cmd: EDIT COPY
+[2022.08.11-11.25.21:549][987]Cmd: EDIT PASTE
+[2022.08.11-11.25.44:420][690]Cmd: EDIT COPY
+[2022.08.11-11.25.48:009][809]Cmd: EDIT COPY
+[2022.08.11-11.25.48:829][836]Cmd: EDIT PASTE
+[2022.08.11-11.25.57:760][ 62]Cmd: TRANSACTION UNDO
+[2022.08.11-11.25.57:760][ 62]LogEditorTransaction: Undo Move Elements
+[2022.08.11-11.25.59:033][104]Cmd: TRANSACTION UNDO
+[2022.08.11-11.25.59:033][104]LogEditorTransaction: Undo Paste
+[2022.08.11-11.26.03:393][192]Cmd: DELETE
+[2022.08.11-11.26.03:393][192]Cmd: ACTOR DELETE
+[2022.08.11-11.26.03:411][192]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.11-11.26.03:449][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.08.11-11.26.03:451][192]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2022.08.11-11.26.04:638][231]Cmd: TRANSACTION UNDO
+[2022.08.11-11.26.04:638][231]LogEditorTransaction: Undo Delete Elements
+[2022.08.11-11.26.05:767][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.08.11-11.26.05:943][243]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.11-11.26.05:947][243]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeonF3B4D92045FC9AF943F43895E4C3BC24.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.11-11.26.06:032][243]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.11-11.26.06:033][243]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.11-11.26.07:915][286]Cmd: EDIT COPY
+[2022.08.11-11.26.08:729][311]Cmd: EDIT PASTE
+[2022.08.11-11.26.13:856][457]Cmd: TRANSACTION UNDO
+[2022.08.11-11.26.13:856][457]LogEditorTransaction: Undo Rotate Elements
+[2022.08.11-11.26.38:263][158]Cmd: DELETE
+[2022.08.11-11.26.38:263][158]Cmd: ACTOR DELETE
+[2022.08.11-11.26.38:278][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.11-11.26.38:309][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.08.11-11.26.38:311][158]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2022.08.11-11.26.40:143][229]Cmd: TRANSACTION UNDO
+[2022.08.11-11.26.40:143][229]LogEditorTransaction: Undo Delete Elements
+[2022.08.11-11.26.48:709][412]Cmd: EDIT COPY
+[2022.08.11-11.26.49:051][420]Cmd: EDIT PASTE
+[2022.08.11-11.26.53:156][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.08.11-11.26.53:309][514]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.11-11.26.53:312][514]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeonE38C3F634FA4758EFC8C9EB022AC4022.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.11-11.26.53:367][514]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.11-11.26.53:367][514]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.11-11.28.24:285][611]Cmd: EDIT COPY
+[2022.08.11-11.28.24:681][628]Cmd: EDIT PASTE
+[2022.08.11-11.29.03:537][128]Cmd: EDIT COPY
+[2022.08.11-11.29.03:953][143]Cmd: EDIT PASTE
+[2022.08.11-11.30.01:102][ 62]Cmd: TRANSACTION UNDO
+[2022.08.11-11.30.01:102][ 62]LogEditorTransaction: Undo Move Elements
+[2022.08.11-11.30.19:581][722]Cmd: EDIT COPY
+[2022.08.11-11.30.19:793][730]Cmd: EDIT PASTE
+[2022.08.11-11.30.27:592][952]Cmd: EDIT COPY
+[2022.08.11-11.30.27:769][957]Cmd: EDIT PASTE
+[2022.08.11-11.30.31:709][ 54]Cmd: EDIT COPY
+[2022.08.11-11.30.32:027][ 63]Cmd: EDIT PASTE
+[2022.08.11-11.30.35:923][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.08.11-11.30.36:077][151]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.11-11.30.36:080][151]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeonAC5F21BA48FA435D1096FA9CF46D0B93.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.11-11.30.36:142][151]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.11-11.30.36:142][151]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.11-11.30.46:666][397]Cmd: EDIT COPY
+[2022.08.11-11.30.46:906][403]Cmd: EDIT PASTE
+[2022.08.11-11.31.11:671][950]Cmd: EDIT COPY
+[2022.08.11-11.31.13:074][993]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.08.11-11.31.13:224][993]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.11-11.31.13:227][993]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeonB9E5C0D94851E3EDC096078143496B91.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.11-11.31.13:286][993]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.11-11.31.13:286][993]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.11-11.31.25:396][383]Cmd: EDIT COPY
+[2022.08.11-11.31.25:788][398]Cmd: EDIT PASTE
+[2022.08.11-11.31.44:108][962]Cmd: EDIT COPY
+[2022.08.11-11.31.45:171][997]Cmd: EDIT PASTE
+[2022.08.11-11.32.01:851][460]Cmd: EDIT COPY
+[2022.08.11-11.32.02:800][492]Cmd: EDIT PASTE
+[2022.08.11-11.32.19:781][907]Cmd: EDIT COPY
+[2022.08.11-11.32.20:656][934]Cmd: EDIT PASTE
+[2022.08.11-11.32.21:794][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.08.11-11.32.21:958][950]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.11-11.32.21:961][950]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeon050181EB49433EBBE076C8B783D65EDF.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.11-11.32.22:029][950]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.11-11.32.22:029][950]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.11-11.32.37:164][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.08.11-11.32.37:306][301]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.11-11.32.37:308][301]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeon5B116A274B38A59013B8CE9A1B951E59.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.11-11.32.37:343][301]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.11-11.32.37:343][301]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.11-11.33.09:624][362]Cmd: EDIT COPY
+[2022.08.11-11.33.09:985][374]Cmd: EDIT PASTE
+[2022.08.11-11.34.39:455][ 94]Cmd: EDIT COPY
+[2022.08.11-11.34.39:786][104]Cmd: EDIT PASTE
+[2022.08.11-11.34.51:105][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.08.11-11.34.51:290][362]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.11-11.34.51:292][362]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeon2E2644CC481DCBA03C0B2BA72909B545.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.11-11.34.51:335][362]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.11-11.34.51:335][362]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.11-11.36.59:037][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.08.11-11.36.59:136][649]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.11-11.36.59:137][649]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeon6907A89C4692BFEA0FD350837DA291EE.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.11-11.36.59:170][649]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.11-11.36.59:170][649]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.11-11.37.31:783][ 39]LogViewport: Scene viewport resized to 780x573, mode Windowed.
+[2022.08.11-11.37.31:824][ 40]LogViewport: Scene viewport resized to 1044x767, mode Windowed.
+[2022.08.11-11.37.31:959][ 41]LogViewport: Scene viewport resized to 1167x858, mode Windowed.
+[2022.08.11-11.37.59:789][442]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch_C
+[2022.08.11-11.37.59:789][442]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch_C
+[2022.08.11-11.37.59:831][442]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/MyDungeon.MyDungeon:PersistentLevel.BP_Torch_C_0
+[2022.08.11-11.37.59:833][442]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/MyDungeon.MyDungeon:PersistentLevel.BP_Torch_C_0
+[2022.08.11-11.38.05:658][725]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch_C
+[2022.08.11-11.38.05:658][725]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch_C
+[2022.08.11-11.38.05:661][725]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/MyDungeon.MyDungeon:PersistentLevel.BP_Torch_C_1
+[2022.08.11-11.38.05:664][725]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/MyDungeon.MyDungeon:PersistentLevel.BP_Torch_C_1
+[2022.08.11-11.38.24:928][788]LogViewport: Scene viewport resized to 1009x741, mode Windowed.
+[2022.08.11-11.38.24:971][789]LogViewport: Scene viewport resized to 755x555, mode Windowed.
+[2022.08.11-11.38.25:112][790]LogViewport: Scene viewport resized to 580x426, mode Windowed.
+[2022.08.11-11.38.41:565][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.08.11-11.38.41:731][652]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.11-11.38.41:734][652]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeon23DD5E484F3EB463801BC6A5A2A2553A.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.11-11.38.41:785][652]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.11-11.38.41:785][652]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.11-11.38.42:925][701]LogViewport: Scene viewport resized to 781x573, mode Windowed.
+[2022.08.11-11.38.42:970][702]LogViewport: Scene viewport resized to 1064x782, mode Windowed.
+[2022.08.11-11.38.43:061][703]LogViewport: Scene viewport resized to 1167x858, mode Windowed.
+[2022.08.11-11.39.03:585][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.08.11-11.39.03:748][260]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.11-11.39.03:751][260]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeon2050CA1B48002C1A01F932AF1E68112E.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.11-11.39.03:812][260]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.11-11.39.03:812][260]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.11-11.39.47:888][217]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2022.08.11-11.39.47:889][217]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2022.08.11-11.40.00:733][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.08.11-11.40.00:920][509]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.11-11.40.00:924][509]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeon6F3BADC94035B4C7AC4A1DB4CC36FB89.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.11-11.40.00:968][509]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.11-11.40.00:968][509]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.11-11.41.04:407][381]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.11-11.41.04:407][381]LogEditorClassViewer: Warning: Class /Game/FirstPerson/Blueprints/BP_FirstPersonProjectile.BP_FirstPersonProjectile_C has parent /Script/TP_FirstPerson.TP_FirstPersonProjectile, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.11-11.41.26:447][381]LogSlate: Window 'Select Path' being destroyed
+[2022.08.11-11.41.28:427][381]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2022.08.11-11.41.28:662][381]LogActorComponent: UnregisterComponent: (/Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C:SM_Torch_GEN_VARIABLE) Not registered. Aborting.
+[2022.08.11-11.41.28:736][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.08.11-11.41.28:765][381]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon
+[2022.08.11-11.41.28:778][381]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
