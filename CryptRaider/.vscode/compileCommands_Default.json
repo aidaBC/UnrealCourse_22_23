@@ -83,5 +83,15 @@
 		"file": "C:\\Users\\aidab\\OneDrive\\Escritorio\\CURSOS\\VIDEOJUEGOS_UNREAL_C++\\GIT\\UnrealCourse_22_23\\CryptRaider\\Source\\CryptRaider\\TP_WeaponComponent.h",
 		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\aidab\\OneDrive\\Escritorio\\CURSOS\\VIDEOJUEGOS_UNREAL_C++\\GIT\\UnrealCourse_22_23\\CryptRaider\\.vscode\\compileCommands_Default\\CryptRaider.211.rsp",
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\aidab\\OneDrive\\Escritorio\\CURSOS\\VIDEOJUEGOS_UNREAL_C++\\GIT\\UnrealCourse_22_23\\CryptRaider\\Source\\CryptRaider\\TriggerComponent.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\aidab\\OneDrive\\Escritorio\\CURSOS\\VIDEOJUEGOS_UNREAL_C++\\GIT\\UnrealCourse_22_23\\CryptRaider\\.vscode\\compileCommands_Default\\CryptRaider.211.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\aidab\\OneDrive\\Escritorio\\CURSOS\\VIDEOJUEGOS_UNREAL_C++\\GIT\\UnrealCourse_22_23\\CryptRaider\\Source\\CryptRaider\\TriggerComponent.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\aidab\\OneDrive\\Escritorio\\CURSOS\\VIDEOJUEGOS_UNREAL_C++\\GIT\\UnrealCourse_22_23\\CryptRaider\\.vscode\\compileCommands_Default\\CryptRaider.211.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
 	}
 ]

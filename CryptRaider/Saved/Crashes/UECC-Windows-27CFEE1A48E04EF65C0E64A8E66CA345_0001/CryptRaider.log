@@ -1,0 +1,1209 @@
+﻿Log file open, 08/19/22 21:28:00
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=13792)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CryptRaider
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:/Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/CryptRaider.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.1889] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="b0eabab94493797bb42b1286b61fc317"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.327237
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-27CFEE1A48E04EF65C0E64A8E66CA345
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.05 seconds
+LogConfig: Display: Loading Android ini files took 0.05 seconds
+LogConfig: Display: Loading IOS ini files took 0.05 seconds
+LogConfig: Display: Loading Linux ini files took 0.08 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogConfig: Display: Loading Mac ini files took 0.05 seconds
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin ControlRig
+LogConfig: Display: Loading TVOS ini files took 0.06 seconds
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogConfig: Display: Loading LinuxArm64 ini files took 0.07 seconds
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin AISupport
+LogConfig: Display: Loading Unix ini files took 0.06 seconds
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogConfig: Display: Loading VulkanPC ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogConfig: Display: Loading Windows ini files took 0.05 seconds
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.1889] (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.08.19-19.28.01:188][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.08.19-19.28.01:188][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.08.19-19.28.01:188][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.08.19-19.28.01:188][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.08.19-19.28.01:188][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.08.19-19.28.01:188][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.08.19-19.28.01:188][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.08.19-19.28.01:188][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.08.19-19.28.01:188][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.08.19-19.28.01:188][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.08.19-19.28.01:188][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.08.19-19.28.01:188][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.08.19-19.28.01:188][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.08.19-19.28.01:188][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.08.19-19.28.01:188][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.08.19-19.28.01:188][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.08.19-19.28.01:188][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.08.19-19.28.01:188][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.08.19-19.28.01:188][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.08.19-19.28.01:188][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.08.19-19.28.01:188][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.08.19-19.28.01:189][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.08.19-19.28.01:189][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.08.19-19.28.01:189][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.08.19-19.28.01:189][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.08.19-19.28.01:189][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.08.19-19.28.01:189][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.08.19-19.28.01:189][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.08.19-19.28.01:189][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.08.19-19.28.01:189][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.08.19-19.28.01:189][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.08.19-19.28.01:189][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.08.19-19.28.01:189][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.08.19-19.28.01:189][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.08.19-19.28.01:189][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.08.19-19.28.01:189][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.08.19-19.28.01:189][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.08.19-19.28.01:189][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.08.19-19.28.01:189][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.08.19-19.28.01:189][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.08.19-19.28.01:189][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.08.19-19.28.01:189][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.08.19-19.28.01:189][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.08.19-19.28.01:189][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.08.19-19.28.01:189][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.08.19-19.28.01:189][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.08.19-19.28.01:189][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.08.19-19.28.01:189][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.08.19-19.28.01:189][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.08.19-19.28.01:189][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.08.19-19.28.01:189][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.08.19-19.28.01:189][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.08.19-19.28.01:189][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.08.19-19.28.01:189][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.08.19-19.28.01:189][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.08.19-19.28.01:189][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.08.19-19.28.01:189][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.08.19-19.28.01:192][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.08.19-19.28.01:192][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.08.19-19.28.01:192][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.08.19-19.28.01:192][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.08.19-19.28.01:192][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.08.19-19.28.01:192][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.08.19-19.28.01:192][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.08.19-19.28.01:192][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.08.19-19.28.01:192][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.08.19-19.28.01:192][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.08.19-19.28.01:192][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.08.19-19.28.01:214][  0]LogD3D12RHI: Aftermath initialized
+[2022.08.19-19.28.01:214][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.08.19-19.28.01:919][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1050 (Max supported Feature Level 12_1, shader model 6.4)
+[2022.08.19-19.28.01:919][  0]LogD3D12RHI: Adapter has 4021MB of dedicated video memory, 0MB of dedicated system memory, and 4038MB of shared system memory, 1 output[s]
+[2022.08.19-19.28.02:381][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) HD Graphics 630 (Max supported Feature Level 12_1, shader model 6.5)
+[2022.08.19-19.28.02:381][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 4038MB of shared system memory, 0 output[s]
+[2022.08.19-19.28.02:668][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.08.19-19.28.02:668][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 4038MB of shared system memory, 0 output[s]
+[2022.08.19-19.28.02:668][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.08.19-19.28.02:669][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.08.19-19.28.02:669][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.08.19-19.28.02:669][  0]LogHAL: Display: Platform has ~ 8 GB [8469164032 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.08.19-19.28.02:669][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.08.19-19.28.02:669][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.08.19-19.28.02:669][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.08.19-19.28.02:670][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.08.19-19.28.02:670][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/Config/WindowsEditor/Editor.ini]
+[2022.08.19-19.28.02:671][  0]LogInit: Computer: DESKTOP-57V99G8
+[2022.08.19-19.28.02:671][  0]LogInit: User: aidab
+[2022.08.19-19.28.02:671][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.08.19-19.28.02:671][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.08.19-19.28.02:671][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2022.08.19-19.28.02:671][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.08.19-19.28.02:671][  0]LogMemory: Process Physical Memory: 269.54 MB used, 277.48 MB peak
+[2022.08.19-19.28.02:671][  0]LogMemory: Process Virtual Memory: 214.98 MB used, 214.98 MB peak
+[2022.08.19-19.28.02:671][  0]LogMemory: Physical Memory: 5673.96 MB used,  2402.87 MB free, 8076.82 MB total
+[2022.08.19-19.28.02:671][  0]LogMemory: Virtual Memory: 8966.17 MB used,  13820.24 MB free, 22786.41 MB total
+[2022.08.19-19.28.02:671][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.08.19-19.28.02:678][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.08.19-19.28.02:697][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.08.19-19.28.02:698][  0]LogInit: Overriding language with editor language configuration option (en).
+[2022.08.19-19.28.02:698][  0]LogInit: Overriding language with editor locale configuration option (en).
+[2022.08.19-19.28.02:890][  0]LogInit: Setting process to per monitor DPI aware
+[2022.08.19-19.28.02:906][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.08.19-19.28.02:906][  0]LogWindowsTextInputMethodSystem:   - Español (España, internacional) - (Keyboard).
+[2022.08.19-19.28.02:906][  0]LogWindowsTextInputMethodSystem:   - Español (España, internacional) - Corrección de entrada táctil (TSF IME).
+[2022.08.19-19.28.02:906][  0]LogWindowsTextInputMethodSystem: Activated input method: Español (España, internacional) - (Keyboard).
+[2022.08.19-19.28.02:925][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.08.19-19.28.02:925][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.08.19-19.28.03:118][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.08.19-19.28.03:124][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.08.19-19.28.03:124][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.08.19-19.28.03:256][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.08.19-19.28.03:256][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.08.19-19.28.03:256][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.08.19-19.28.03:256][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.08.19-19.28.03:256][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.08.19-19.28.03:256][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.08.19-19.28.03:256][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.08.19-19.28.03:256][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.08.19-19.28.03:256][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.08.19-19.28.03:257][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is not supported
+[2022.08.19-19.28.03:325][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.08.19-19.28.03:333][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.08.19-19.28.03:350][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.08.19-19.28.03:360][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.08.19-19.28.03:360][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.08.19-19.28.03:421][  0]LogD3D12RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2022.08.19-19.28.03:421][  0]LogWindows: Attached monitors:
+[2022.08.19-19.28.03:421][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1030), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.08.19-19.28.03:421][  0]LogWindows: Found 1 attached monitors.
+[2022.08.19-19.28.03:421][  0]LogWindows: EnumDisplayDevices:
+[2022.08.19-19.28.03:421][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.08.19-19.28.03:422][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.08.19-19.28.03:422][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.08.19-19.28.03:422][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2022.08.19-19.28.03:422][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2022.08.19-19.28.03:422][  0]LogD3D12RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2022.08.19-19.28.03:422][  0]LogD3D12RHI:      Driver Date: Unknown
+[2022.08.19-19.28.03:422][  0]LogRHI: Texture pool is 2153 MB (70% of 3076 MB)
+[2022.08.19-19.28.03:422][  0]LogD3D12RHI: Async texture creation enabled
+[2022.08.19-19.28.03:422][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.08.19-19.28.03:436][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.08.19-19.28.03:444][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/CryptRaider.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Intermediate/TurnkeyReport_0.log" -log="C:/Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Intermediate/TurnkeyLog_0.log" -project="C:/Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/CryptRaider.uproject"  -platform=all'
+[2022.08.19-19.28.03:444][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/CryptRaider.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Intermediate/TurnkeyReport_0.log" -log="C:/Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Intermediate/TurnkeyLog_0.log" -project="C:/Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/CryptRaider.uproject"  -platform=all" ]
+[2022.08.19-19.28.03:476][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.08.19-19.28.03:486][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.08.19-19.28.03:486][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.08.19-19.28.03:497][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.08.19-19.28.03:497][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.08.19-19.28.03:497][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.08.19-19.28.03:497][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.08.19-19.28.03:497][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.08.19-19.28.03:497][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.08.19-19.28.03:497][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.08.19-19.28.03:497][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.08.19-19.28.03:497][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.08.19-19.28.03:497][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.08.19-19.28.03:530][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.08.19-19.28.03:530][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.08.19-19.28.03:537][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.08.19-19.28.03:537][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.08.19-19.28.03:542][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.08.19-19.28.03:542][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.08.19-19.28.03:542][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.08.19-19.28.03:542][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.08.19-19.28.03:546][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.08.19-19.28.03:546][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.08.19-19.28.03:546][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.08.19-19.28.03:550][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.08.19-19.28.03:551][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.08.19-19.28.03:560][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.08.19-19.28.03:560][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.08.19-19.28.03:560][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.08.19-19.28.03:560][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.08.19-19.28.03:560][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.08.19-19.28.03:575][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.08.19-19.28.03:579][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.08.19-19.28.03:579][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.08.19-19.28.03:579][  0]LogTargetPlatformManager:   ADPCM
+[2022.08.19-19.28.03:579][  0]LogTargetPlatformManager:   PCM
+[2022.08.19-19.28.03:583][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.08.19-19.28.03:583][  0]LogTargetPlatformManager:   BINKA
+[2022.08.19-19.28.03:583][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.08.19-19.28.03:583][  0]LogTargetPlatformManager:   OGG
+[2022.08.19-19.28.03:583][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.08.19-19.28.03:583][  0]LogTargetPlatformManager:   OPUS
+[2022.08.19-19.28.03:642][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.08.19-19.28.03:650][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.08.19-19.28.03:650][  0]LogTargetPlatformManager:   SF_METAL
+[2022.08.19-19.28.03:650][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.08.19-19.28.03:650][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.08.19-19.28.03:650][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.08.19-19.28.03:650][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.08.19-19.28.03:650][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.08.19-19.28.03:651][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.08.19-19.28.03:651][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.08.19-19.28.03:651][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.08.19-19.28.03:651][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.08.19-19.28.03:651][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.08.19-19.28.03:651][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.08.19-19.28.03:651][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.08.19-19.28.03:651][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.08.19-19.28.03:651][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.08.19-19.28.03:655][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.08.19-19.28.03:655][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.08.19-19.28.03:655][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.08.19-19.28.03:655][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.08.19-19.28.03:655][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.08.19-19.28.03:655][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.08.19-19.28.03:655][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.08.19-19.28.03:655][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.08.19-19.28.03:655][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.08.19-19.28.03:656][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.08.19-19.28.03:656][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.08.19-19.28.03:656][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.08.19-19.28.03:660][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.08.19-19.28.03:660][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.08.19-19.28.03:660][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.08.19-19.28.03:660][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.08.19-19.28.03:687][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.08.19-19.28.03:687][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.08.19-19.28.03:687][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.08.19-19.28.03:889][  0]LogDerivedDataCache: Speed tests for C:/Users/aidab/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.20 seconds
+[2022.08.19-19.28.03:889][  0]LogDerivedDataCache: Display: Performance to C:/Users/aidab/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.06ms. RandomReadSpeed=192.86MBs, RandomWriteSpeed=4.75MBs. Assigned SpeedClass 'Local'
+[2022.08.19-19.28.03:891][  0]LogDerivedDataCache: Using Local data cache path C:/Users/aidab/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.08.19-19.28.03:891][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.08.19-19.28.03:891][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.08.19-19.28.03:901][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.08.19-19.28.03:901][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.08.19-19.28.03:902][  0]LogShaderCompilers: Guid format shader working directory is -69 characters bigger than the processId version (../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Intermediate/Shaders/WorkingDirectory/16192/).
+[2022.08.19-19.28.03:902][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/aidab/AppData/Local/Temp/UnrealShaderWorkingDir/F4262B97408B9612A4A5A7B100453450/'.
+[2022.08.19-19.28.03:903][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.08.19-19.28.03:903][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2022.08.19-19.28.06:707][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.08.19-19.28.06:707][  0]LogSlate: Using FreeType 2.10.0
+[2022.08.19-19.28.06:708][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.08.19-19.28.06:766][  0]LogAssetRegistry: FAssetRegistry took 0.0219 seconds to start up
+[2022.08.19-19.28.06:774][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.08.19-19.28.07:019][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.08.19-19.28.07:020][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.08.19-19.28.07:497][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.08.19-19.28.07:497][  0]LogDeviceProfileManager: Active device profile: [0000053F4FDC1DC0][0000053F41775000 50] WindowsEditor
+[2022.08.19-19.28.07:497][  0]LogDeviceProfileManager: Profiles: [0000053F4FDC1880][0000053F4177A000 50] Windows, [0000053F4FDC1DC0][0000053F41775000 50] WindowsEditor, [0000053F4FDC40C0][0000053F41772800 50] WindowsServer, [0000053F4FDC08C0][0000053F4167A000 50] WindowsClient, [0000053F4FDC4B40][0000053F41777800 50] IOS, [0000053F4FDC24C0][0000053F4FD50000 50] iPadAir2, [0000053F4FDC4440][0000053F4FD57800 50] IPadPro, [0000053F4FDC8F80][0000053F4FD55000 50] iPadAir3, [0000053F4FDC8A40][0000053F4FD5A000 50] iPadAir4, [0000053F4FDC9680][0000053F4FD5C800 50] iPadMini4, [0000053F4FDC5240][0000053F31F25000 50] iPadMini5, [0000053F4FDC4280][0000053F4FDA0000 50] iPadMini6, [0000053F4FDC6E40][0000053F4FDAA000 50] iPhone6S, [0000053F4FDCA480][0000053F4FDA7800 50] iPhone7, [0000053F4FDC2680][0000053F4FDA5000 50] iPodTouch7, [0000053F4FDCBB40][0000053F4FDAC800 50] iPhone6SPlus, [0000053F4FDCD580][0000053F4FD52800 50] iPhone7Plus, [0000053F4FDC9BC0][0000053F4FDB0000 50] iPhoneSE, [0000053F4FDC4600][0000053F4FDB5000 50] iPhone8, [0000053F4FDCA9C0][0000053F4FDB7800 50] iPhone8Plus, [0000053F4FDC47C0][0000053F4FDBA000 50] iPhoneX, [0000053F4FDC8500][0000053F4FDBC800 50] iPhoneXS, [0000053F4FDC86C0][0000053F4FDA2800 50] iPhoneXSMax, [0000053F4FDC0E00][0000053F4FDD0000 50] iPhoneXR, [0000053F4FDC55C0][0000053F4FDD5000 50] iPhone11, [0000053F4FDCB600][0000053F4FDD7800 50] iPhone11Pro, [0000053F4FDC9840][0000053F4FDDA000 50] iPhone11ProMax, [0000053F4FDC7C40][0000053F4FDDC800 50] iPhoneSE2, [0000053F4FDC16C0][0000053F4FDB2800 50] iPhone12Mini, [0000053F4FDC1F80][0000053F4FDE0000 50] iPhone12, [0000053F4FDC5B00][0000053F4FDE5000 50] iPhone12Pro, [0000053F4FDC5080][0000053F4FDE7800 50] iPhone12ProMax, [0000053F4FDC3480][0000053F4FDEA000 50] iPhone13Mini, [0000053F4FDCC400][0000053F4FDEC800 50] iPhone13, [0000053F4FDC8180][0000053F4FDD2800 50] iPhone13Pro, [0000053F4FDC7E00][0000053F4FDF0000 50] iPhone13ProMax, [0000053F4FDC4D00][0000053F4FDF5000 50] iPadPro105, [0000053F4FDC1500][0000053F4FDF7800 50] iPadPro129, [0000053F4FDC4EC0][0000053F4FDFA000 50] iPadPro97, [0000053F4FDC01C0][0000053F4FDFC800 50] iPadPro2_129, [0000053F4FDC8880][0000053F4FDE2800 50] iPad5, [0000053F4FDC3800][0000053F4FE10000 50] iPad6, [0000053F4FDCB440][0000053F4FE15000 50] iPad7, [0000053F4FDC0A80][0000053F4FE17800 50] iPad8, [0000053F4FDC8340][0000053F4FE1A000 50] iPad9, [0000053F4FDC1180][0000053F4FE1C800 50] iPadPro11, [0000053F4FDC5780][0000053F4FDF2800 50] iPadPro2_11, [0000053F4FDC94C0][0000053F4FE20000 50] iPadPro3_11, [0000053F4FDCA2C0][0000053F4FE25000 50] iPadPro3_129, [0000053F4FDCD740][0000053F4FE27800 50] iPadPro4_129, [0000053F4FDC32C0][0000053F4FE2A000 50] iPadPro5_129, [0000053F4FDC0000][0000053F4FE2C800 50] AppleTV, [0000053F4FDCAD40][0000053F4FE12800 50] AppleTV4K, [0000053F4FDCAB80][0000053F4FE30000 50] TVOS, [0000053F4FDCE1C0][0000053F4FE37800 50] Mac, [0000053F4FDCE540][0000053F4FE35000 50] MacEditor, [0000053F4FDCBEC0][0000053F4FE3A000 50] MacClient, [0000053F4FDCC780][0000053F4FE3C800 50] MacServer, [0000053F4FDC8C00][0000053F4FE60000 50] Linux, [0000053F4FDCC240][0000053F4FE62800 50] LinuxEditor, [0000053F4FDCB280][0000053F4FE67800 50] LinuxArm64Editor, [0000053F4FDC4980][0000053F4FE6A000 50] LinuxArm64, [0000053F4FDC3F00][0000053F4FE6C800 50] LinuxClient, [0000053F4FDC9300][0000053F4FE22800 50] LinuxArm64Client, [0000053F4FDC6580][0000053F4FE65000 50] LinuxServer, [0000053F4FDC5CC0][0000053F4FE40000 50] LinuxArm64Server, [0000053F4FDCB0C0][0000053F4FE45000 50] Android, [0000053F4FDCD900][0000053F4FE47800 50] Android_Preview_OpenGL, [0000053F4FDC8DC0][0000053F4FE4A000 50] Android_Preview_Vulkan, [0000053F4FDC6AC0][0000053F4FE4C800 50] Android_Low, [0000053F4FDCEA80][0000053F4FE32800 50] Android_Mid, [0000053F4FDC3D40][0000053F4FE50000 50] Android_High, [0000053F4FDC71C0][0000053F4FE55000 50] Android_Default, [0000053F4FDC0700][0000053F4FE57800 50] Android_Adreno4xx, [0000053F4FDCD3C0][0000053F4FE5A000 50] Android_Adreno5xx_Low, [0000053F4FDC78C0][0000053F4FE5C800 50] Android_Adreno5xx, [0000053F4FDC6740][0000053F4FE42800 50] Android_Adreno6xx, [0000053F4FDCE700][0000053F4FE70000 50] Android_Adreno6xx_Vulkan, [0000053F4FDCCB00][0000053F4FE75000 50] Android_Adreno7xx, [0000053F4FDCC940][0000053F4FE77800 50] Android_Adreno7xx_Vulkan, [0000053F4FDC2BC0][0000053F4FE7A000 50] Android_Mali_T6xx, [0000053F4FDC7A80][0000053F4FE7C800 50] Android_Mali_T7xx, [0000053F4FDC0380][0000053F4FE52800 50] Android_Mali_T8xx, [0000053F4FDCC5C0][0000053F4FE80000 50] Android_Mali_G71, [0000053F4FDC5400][0000053F4FE85000 50] Android_Mali_G72, [0000053F4FDC5940][0000053F4FE87800 50] Android_Mali_G72_Vulkan, [0000053F4FDC0C40][0000053F4FE8A000 50] Android_Mali_G76, [0000053F4FDC2140][0000053F4FE8C800 50] Android_Mali_G76_Vulkan, [0000053F4FDCC080][0000053F4FE72800 50] Android_Mali_G77, [0000053F4FDC7540][0000053F4FE90000 50] Android_Mali_G77_Vulkan, [0000053F4FDCB7C0][0000053F4FE95000 50] Android_Mali_G78, [0000053F4FDCA100][0000053F4FE97800 50] Android_Mali_G78_Vulkan, [0000053F4FDC7380][0000053F4FE9A000 50] Android_Mali_G710, [0000053F4FDCCCC0][0000053F4FE9C800 50] Android_Mali_G710_Vulkan, [0000053F4FDCE8C0][0000053F4FE82800 50] Android_Xclipse_920, [0000053F4FDC6200][0000053F4FEA0000 50] Android_Xclipse_920_Vulkan, [0000053F4FDC6C80][0000053F4FEA5000 50] Android_Vulkan_SM5, [0000053F4FDCCE80][0000053F4FEA7800 50] Android_PowerVR_G6xxx, [0000053F4FDCD200][0000053F4FEAA000 50] Android_PowerVR_GT7xxx, [0000053F4FDCEC40][0000053F4FEAC800 50] Android_PowerVR_GE8xxx, [0000053F4FDC3640][0000053F4FE92800 50] Android_PowerVR_GM9xxx, [0000053F4FDC2840][0000053F4FEB0000 50] Android_PowerVR_GM9xxx_Vulkan, [0000053F4FDCDAC0][0000053F4FEB5000 50] Android_TegraK1, [0000053F4FDCD040][0000053F4FEB7800 50] Android_Unknown_Vulkan, [0000053F4FDCAF00][0000053F4FEBA000 50] Oculus_Quest, [0000053F4FDC7FC0][0000053F4FEBC800 50] Oculus_Quest2, [0000053F4FDCA800][0000053F4FEA2800 50] HoloLens, 
+[2022.08.19-19.28.07:497][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.08.19-19.28.07:500][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.08.19-19.28.07:500][  0]LogTurnkeySupport: Turnkey Platform: HoloLens: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.08.19-19.28.07:500][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.08.19-19.28.07:501][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.08.19-19.28.07:501][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.08.19-19.28.07:501][  0]LogTurnkeySupport: Turnkey Platform: TVOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.08.19-19.28.07:501][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.08.19-19.28.07:622][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.08.19-19.28.07:869][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.08.19-19.28.07:869][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.08.19-19.28.07:869][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.08.19-19.28.07:869][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.08.19-19.28.07:869][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.08.19-19.28.07:887][  0]LogNetVersion: CryptRaider 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 380886935)
+[2022.08.19-19.28.08:099][  0]LogSlate: Border
+[2022.08.19-19.28.08:099][  0]LogSlate: BreadcrumbButton
+[2022.08.19-19.28.08:099][  0]LogSlate: Default
+[2022.08.19-19.28.08:099][  0]LogSlate: Icons.Save
+[2022.08.19-19.28.08:099][  0]LogSlate: Icons.Toolbar.Settings
+[2022.08.19-19.28.08:099][  0]LogSlate: ListView
+[2022.08.19-19.28.08:099][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.08.19-19.28.08:099][  0]LogSlate: SoftwareCursor_Grab
+[2022.08.19-19.28.08:099][  0]LogSlate: TableView.DarkRow
+[2022.08.19-19.28.08:099][  0]LogSlate: TableView.Row
+[2022.08.19-19.28.08:099][  0]LogSlate: TreeView
+[2022.08.19-19.28.08:424][  0]SourceControl: Source control is disabled
+[2022.08.19-19.28.08:459][  0]SourceControl: Source control is disabled
+[2022.08.19-19.28.08:459][  0]SourceControl: Source control is disabled
+[2022.08.19-19.28.08:609][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.08.19-19.28.08:609][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2022.08.19-19.28.08:609][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.08.19-19.28.09:062][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 379D9EC74A9CC87E8314198BC6F24408 | Instance: 396B5F444694BBA95F984FAE0ABB08DF (DESKTOP-57V99G8-16192).
+[2022.08.19-19.28.09:116][  0]LogPython: Using Python 3.9.7
+[2022.08.19-19.28.10:122][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.08.19-19.28.10:132][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.08.19-19.28.10:465][  0]SourceControl: Source control is disabled
+[2022.08.19-19.28.10:677][  0]SourceControl: Source control is disabled
+[2022.08.19-19.28.10:705][  0]LogUProjectInfo: Found projects:
+[2022.08.19-19.28.10:709][  0]SourceControl: Source control is disabled
+[2022.08.19-19.28.10:800][  0]LogOpenImageDenoise: OIDN starting up
+[2022.08.19-19.28.10:895][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.08.19-19.28.10:924][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.08.19-19.28.10:924][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.08.19-19.28.11:046][  0]LogCollectionManager: Loaded 0 collections in 0.003291 seconds
+[2022.08.19-19.28.11:149][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/Collections/' took 0.00s
+[2022.08.19-19.28.11:149][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/Developers/aidab/Collections/' took 0.00s
+[2022.08.19-19.28.11:149][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/Collections/' took 0.00s
+[2022.08.19-19.28.11:652][  0]LogEngine: Initializing Engine...
+[2022.08.19-19.28.11:672][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.08.19-19.28.11:674][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.08.19-19.28.12:013][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.08.19-19.28.12:013][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.19-19.28.12:030][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.19-19.28.12:070][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.08.19-19.28.12:070][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.08.19-19.28.12:104][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.08.19-19.28.12:104][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.08.19-19.28.12:104][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.08.19-19.28.12:105][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.08.19-19.28.12:105][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.08.19-19.28.12:105][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.19-19.28.12:105][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.19-19.28.12:105][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.19-19.28.12:105][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.19-19.28.12:105][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.19-19.28.12:105][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.19-19.28.12:105][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.19-19.28.12:105][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.19-19.28.12:106][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.19-19.28.12:106][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.19-19.28.12:106][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.19-19.28.12:115][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.19-19.28.12:684][  0]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek High Definition Audio)
+[2022.08.19-19.28.12:684][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.19-19.28.12:688][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.19-19.28.12:688][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.19-19.28.12:689][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.08.19-19.28.12:689][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.08.19-19.28.12:690][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.08.19-19.28.12:690][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.08.19-19.28.12:691][  0]LogInit: FAudioDevice initialized.
+[2022.08.19-19.28.12:691][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.08.19-19.28.12:691][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.08.19-19.28.12:691][  0]LogInit: Texture streaming: Enabled
+[2022.08.19-19.28.12:736][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.08.19-19.28.12:749][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.08.19-19.28.12:949][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.08.19-19.28.12:958][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.08.19-19.28.12:958][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: CryptRaiderEditor Win64 Development
+[2022.08.19-19.28.16:170][  0]LogLiveCoding: Display: First instance in process group "UE_CryptRaider_0x36728574", spawning console
+[2022.08.19-19.28.16:170][  0]LogLiveCoding: Display: Waiting for server
+[2022.08.19-19.28.16:170][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.08.19-19.28.16:232][  0]LogInit: Transaction tracking system initialized
+[2022.08.19-19.28.16:345][  0]BlueprintLog: New page: Editor Load
+[2022.08.19-19.28.16:610][  0]LocalizationService: Localization service is disabled
+[2022.08.19-19.28.16:679][  0]TimingProfiler: Initialize
+[2022.08.19-19.28.16:679][  0]TimingProfiler: OnSessionChanged
+[2022.08.19-19.28.16:679][  0]LoadingProfiler: Initialize
+[2022.08.19-19.28.16:679][  0]LoadingProfiler: OnSessionChanged
+[2022.08.19-19.28.16:679][  0]NetworkingProfiler: Initialize
+[2022.08.19-19.28.16:679][  0]NetworkingProfiler: OnSessionChanged
+[2022.08.19-19.28.16:679][  0]MemoryProfiler: Initialize
+[2022.08.19-19.28.16:679][  0]MemoryProfiler: OnSessionChanged
+[2022.08.19-19.28.17:733][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/' took 0.02s
+[2022.08.19-19.28.17:733][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.08.19-19.28.17:841][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.08.19-19.28.17:844][  0]SourceControl: Source control is disabled
+[2022.08.19-19.28.17:845][  0]LogUnrealEdMisc: Loading editor; pre map load, took 19.026
+[2022.08.19-19.28.17:845][  0]Cmd: MAP LOAD FILE="../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.19-19.28.17:845][  0]LightingResults: New page: Lighting Build
+[2022.08.19-19.28.17:855][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.08.19-19.28.17:855][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.19-19.28.17:855][  0]MapCheck: New page: Map Check
+[2022.08.19-19.28.17:855][  0]LightingResults: New page: Lighting Build
+[2022.08.19-19.28.17:865][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.19-19.28.17:868][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.08.19-19.28.18:766][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MyDungeon'.
+[2022.08.19-19.28.18:766][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.19-19.28.18:766][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.19-19.28.18:767][  0]LogAIModule: Creating AISystem for world MyDungeon
+[2022.08.19-19.28.18:829][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.19-19.28.18:843][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.08.19-19.28.18:843][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.19-19.28.18:843][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.286ms to complete.
+[2022.08.19-19.28.18:843][  0]LogFileHelpers: Loading map 'MyDungeon' took 0.999
+[2022.08.19-19.28.18:862][  0]LogUnrealEdMisc: Total Editor Startup Time, took 20.043
+[2022.08.19-19.28.18:862][  0]LogShaderCompilers: Display: ================================================
+[2022.08.19-19.28.18:862][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.08.19-19.28.18:862][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.08.19-19.28.18:862][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.08.19-19.28.18:862][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.00%
+[2022.08.19-19.28.18:862][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.08.19-19.28.18:862][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.08.19-19.28.18:862][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.08.19-19.28.18:862][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.08.19-19.28.18:862][  0]LogShaderCompilers: Display: ================================================
+[2022.08.19-19.28.18:995][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.08.19-19.28.19:118][  0]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.08.19-19.28.19:703][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.19-19.28.19:711][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.19-19.28.19:718][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.19-19.28.19:725][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.19-19.28.19:793][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.08.19-19.28.19:793][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.19-19.28.19:794][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.08.19-19.28.19:794][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.19-19.28.19:795][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.08.19-19.28.19:795][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.19-19.28.19:796][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.08.19-19.28.19:796][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.19-19.28.19:798][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.08.19-19.28.19:798][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.19-19.28.19:799][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.08.19-19.28.19:799][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.19-19.28.19:800][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.08.19-19.28.19:800][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.19-19.28.19:800][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.08.19-19.28.19:801][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.19-19.28.19:801][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.08.19-19.28.19:801][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.19-19.28.19:802][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.08.19-19.28.19:802][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.19-19.28.19:803][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.08.19-19.28.20:293][  0]LogSlate: Took 0.000300 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.08.19-19.28.20:296][  0]LogSlate: Took 0.000307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.08.19-19.28.20:442][  0]LogSlate: Took 0.140582 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.08.19-19.28.20:443][  0]LogSlate: Took 0.000252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.08.19-19.28.20:483][  0]LogViewport: Scene viewport resized to 1044x858, mode Windowed.
+[2022.08.19-19.28.23:691][  0]LogStall: Startup...
+[2022.08.19-19.28.23:693][  0]LogStall: Startup complete.
+[2022.08.19-19.28.23:706][  0]LogLoad: (Engine Initialization) Total time: 24.89 seconds
+[2022.08.19-19.28.23:706][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.08.19-19.28.24:059][  0]LogAssetRegistry: Asset discovery search completed in 17.2955 seconds
+[2022.08.19-19.28.24:078][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.08.19-19.28.24:124][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.08.19-19.28.24:565][  3]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2022.08.19-19.28.44:825][401]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.19-19.28.44:931][401]PIE: New page: PIE session: MyDungeon (Aug 19, 2022, 11:28:44 PM)
+[2022.08.19-19.28.44:944][401]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.08.19-19.28.44:951][401]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.08.19-19.28.44:965][401]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyDungeon
+[2022.08.19-19.28.45:041][401]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075291s)
+[2022.08.19-19.28.45:041][401]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyDungeon.MyDungeon to /Game/UEDPIE_0_MyDungeon.MyDungeon (0.075707s)
+[2022.08.19-19.28.45:041][401]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.19-19.28.45:052][401]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.19-19.28.45:064][401]LogAIModule: Creating AISystem for world MyDungeon
+[2022.08.19-19.28.45:065][401]LogPlayLevel: PIE: World Init took: (0.023659s)
+[2022.08.19-19.28.45:153][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.08.19-19.28.45:177][401]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.08.19-19.28.45:177][401]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.19-19.28.45:177][401]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.19-19.28.45:177][401]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.19-19.28.45:177][401]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.19-19.28.45:177][401]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.19-19.28.45:177][401]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.19-19.28.45:177][401]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.19-19.28.45:177][401]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.19-19.28.45:178][401]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.19-19.28.45:178][401]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.19-19.28.45:178][401]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.19-19.28.45:180][401]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.19-19.28.45:259][401]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek High Definition Audio)
+[2022.08.19-19.28.45:259][401]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.19-19.28.45:259][401]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.19-19.28.45:260][401]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.19-19.28.45:261][401]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.08.19-19.28.45:261][401]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.08.19-19.28.45:263][401]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.08.19-19.28.45:263][401]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.08.19-19.28.45:263][401]LogInit: FAudioDevice initialized.
+[2022.08.19-19.28.45:263][401]LogAudio: Display: Audio Device (ID: 2) registered with world 'MyDungeon'.
+[2022.08.19-19.28.45:536][401]LogLoad: Game class is 'BP_CryptRaiderGameMode_C'
+[2022.08.19-19.28.45:588][401]LogWorld: Bringing World /Game/UEDPIE_0_MyDungeon.MyDungeon up for play (max tick rate 60) at 2022.08.19-21.28.45
+[2022.08.19-19.28.45:604][401]LogWorld: Bringing up level for play took: 0.067723
+[2022.08.19-19.28.45:626][401]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2022.08.19-19.28.46:158][401]LogTemp: Display: Got Physics Handle: PhysicsHandle
+[2022.08.19-19.28.46:168][401]PIE: Server logged in
+[2022.08.19-19.28.46:183][401]PIE: Play in editor total start time 1.476 seconds.
+[2022.08.19-19.29.16:909][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.19-19.29.16:909][ 84]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MyDungeon
+[2022.08.19-19.29.16:910][ 84]LogWorld: UWorld::CleanupWorld for MyDungeon, bSessionEnded=true, bCleanupResources=true
+[2022.08.19-19.29.16:924][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.19-19.29.16:967][ 84]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.19-19.29.17:005][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.19-19.29.17:019][ 84]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.19-19.29.17:020][ 84]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.08.19-19.29.17:022][ 84]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.08.19-19.29.17:028][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.19-19.29.17:049][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.08.19-19.29.17:139][ 85]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2022.08.19-19.30.05:562][285]LogDerivedDataCache: C:/Users/aidab/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.475 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.19-19.32.05:913][780]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.19-19.32.05:913][780]PIE: New page: PIE session: MyDungeon (Aug 19, 2022, 11:32:05 PM)
+[2022.08.19-19.32.05:913][780]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyDungeon
+[2022.08.19-19.32.05:967][780]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053127s)
+[2022.08.19-19.32.05:967][780]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyDungeon.MyDungeon to /Game/UEDPIE_0_MyDungeon.MyDungeon (0.053293s)
+[2022.08.19-19.32.05:967][780]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.19-19.32.05:967][780]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.19-19.32.05:968][780]LogAIModule: Creating AISystem for world MyDungeon
+[2022.08.19-19.32.05:968][780]LogPlayLevel: PIE: World Init took: (0.001244s)
+[2022.08.19-19.32.05:980][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.08.19-19.32.05:981][780]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.08.19-19.32.05:981][780]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.19-19.32.05:981][780]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.19-19.32.05:981][780]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.19-19.32.05:981][780]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.19-19.32.05:981][780]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.19-19.32.05:981][780]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.19-19.32.05:981][780]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.19-19.32.05:981][780]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.19-19.32.05:982][780]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.19-19.32.05:982][780]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.19-19.32.05:982][780]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.19-19.32.05:984][780]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.19-19.32.06:067][780]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek High Definition Audio)
+[2022.08.19-19.32.06:067][780]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.19-19.32.06:067][780]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.19-19.32.06:067][780]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.19-19.32.06:068][780]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.08.19-19.32.06:068][780]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.08.19-19.32.06:070][780]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.08.19-19.32.06:070][780]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.08.19-19.32.06:070][780]LogInit: FAudioDevice initialized.
+[2022.08.19-19.32.06:070][780]LogAudio: Display: Audio Device (ID: 3) registered with world 'MyDungeon'.
+[2022.08.19-19.32.06:097][780]LogLoad: Game class is 'BP_CryptRaiderGameMode_C'
+[2022.08.19-19.32.06:127][780]LogWorld: Bringing World /Game/UEDPIE_0_MyDungeon.MyDungeon up for play (max tick rate 60) at 2022.08.19-21.32.06
+[2022.08.19-19.32.06:128][780]LogWorld: Bringing up level for play took: 0.031547
+[2022.08.19-19.32.06:131][780]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2022.08.19-19.32.06:153][780]LogTemp: Display: Got Physics Handle: PhysicsHandle
+[2022.08.19-19.32.06:153][780]PIE: Server logged in
+[2022.08.19-19.32.06:155][780]PIE: Play in editor total start time 0.242 seconds.
+[2022.08.19-19.32.31:134][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.19-19.32.31:134][356]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MyDungeon
+[2022.08.19-19.32.31:135][356]LogWorld: UWorld::CleanupWorld for MyDungeon, bSessionEnded=true, bCleanupResources=true
+[2022.08.19-19.32.31:138][356]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.19-19.32.31:218][356]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.19-19.32.31:224][356]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.19-19.32.31:240][356]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.19-19.32.31:240][356]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.08.19-19.32.31:243][356]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.08.19-19.32.31:249][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.19-19.32.31:258][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.08.19-19.32.31:320][357]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.08.19-19.37.25:843][808]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.19-19.37.25:843][808]LogEditorClassViewer: Warning: Class /Game/FirstPerson/Blueprints/BP_FirstPersonProjectile.BP_FirstPersonProjectile_C has parent /Script/TP_FirstPerson.TP_FirstPersonProjectile, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.19-19.41.12:106][808]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2022.08.19-19.41.22:636][910]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2022.08.19-19.41.22:825][910]LogActorComponent: UnregisterComponent: (/Game/BP_PilarMechanism.Default__BP_PilarMechanism_C:StaticMeshComponent0) Not registered. Aborting.
+[2022.08.19-19.41.22:872][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.08.19-19.41.23:006][910]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_PilarMechanism.BP_PilarMechanism
+[2022.08.19-19.41.23:067][910]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.19-19.41.40:858][910]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2022.08.19-19.41.40:859][910]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [10030ms] waiting for h/w. InstanceID=1
+[2022.08.19-19.41.40:859][910]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.031121s
+[2022.08.19-19.41.46:684][910]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.004996s (5.970088s overbudget)
+[2022.08.19-19.41.47:136][910]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=12500
+[2022.08.19-19.41.47:638][910]LogViewport: Scene viewport resized to 1134x653, mode Windowed.
+[2022.08.19-19.41.48:001][911]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{caab2f23-ba76-4b43-934e-b40a3912e813}, Name=Altavoces (Realtek High Definition Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=737.43
+[2022.08.19-19.41.48:025][911]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.08.19-19.41.48:028][911]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.08.19-19.41.48:272][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.08.19-19.41.48:557][911]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.007200 seconds
+[2022.08.19-19.41.48:986][911]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyDungeon_Auto1
+[2022.08.19-19.41.48:987][911]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeon_Auto16F80D81044630D96E64ADEAB2BDC9F62.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/Autosaves/Game/MyDungeon_Auto1.umap'
+[2022.08.19-19.41.49:279][911]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyDungeon' took 1.040
+[2022.08.19-19.41.49:279][911]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.040
+[2022.08.19-19.44.10:866][447]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2022.08.19-19.44.11:384][447]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.19-19.44.11:386][447]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeon36103BDC4C05DBA877C788A0B9317C54.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.19-19.44.11:487][447]LogFileHelpers: No new changes to save!
+[2022.08.19-19.44.11:600][447]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.19-19.44.11:623][447]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.19-19.51.15:466][365]LogViewport: Scene viewport resized to 1131x683, mode Windowed.
+[2022.08.19-19.51.15:578][366]LogViewport: Scene viewport resized to 1139x823, mode Windowed.
+[2022.08.19-19.51.16:672][425]LogSlate: Window 'BP_PilarMechanism' being destroyed
+[2022.08.19-19.51.21:236][654]LogSavePackage: Moving output files for package: /Game/BP_PilarMechanism
+[2022.08.19-19.51.21:236][654]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/BP_PilarMechanism96D24EFB4E463D66E106FAA183FDE2F3.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/BP_PilarMechanism.uasset'
+[2022.08.19-19.51.21:256][654]AssetCheck: New page: Asset Save: BP_PilarMechanism
+[2022.08.19-19.51.21:256][654]LogContentValidation: Display: Validating Blueprint /Game/BP_PilarMechanism.BP_PilarMechanism
+[2022.08.19-19.54.36:256][252]LogSavePackage: Moving output files for package: /Game/BP_PilarMechanism
+[2022.08.19-19.54.36:260][252]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/BP_PilarMechanismF51B1DA545902E1A6FCAA6B17133054C.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/BP_PilarMechanism.uasset'
+[2022.08.19-19.54.36:299][252]AssetCheck: New page: Asset Save: BP_PilarMechanism
+[2022.08.19-19.54.36:299][252]LogContentValidation: Display: Validating Blueprint /Game/BP_PilarMechanism.BP_PilarMechanism
+[2022.08.19-19.55.25:222][184]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2022.08.19-19.55.25:472][184]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyDungeon_Auto2
+[2022.08.19-19.55.25:472][184]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeon_Auto24C7CD63247AFFE625266B5B2DC84DAB9.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/Autosaves/Game/MyDungeon_Auto2.umap'
+[2022.08.19-19.55.25:488][184]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyDungeon' took 0.318
+[2022.08.19-19.55.25:488][184]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.318
+[2022.08.19-19.55.25:488][184]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_PilarMechanism] ([2] browsable assets)...
+[2022.08.19-19.55.25:577][184]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_PilarMechanism.BP_PilarMechanism]
+[2022.08.19-19.55.25:578][184]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_PilarMechanism]
+[2022.08.19-19.55.25:585][184]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP_PilarMechanism_Auto2
+[2022.08.19-19.55.25:586][184]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/BP_PilarMechanism_Auto23F8E24BE456449AB5F008BB691A54FDD.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/Autosaves/Game/BP_PilarMechanism_Auto2.uasset'
+[2022.08.19-19.55.25:600][184]LogFileHelpers: Auto-saving content packages took 0.101
+[2022.08.19-19.56.05:702][898]LogEditorTransaction: Undo Rename Component Variable
+[2022.08.19-19.56.08:046][987]LogEditorTransaction: Undo Edit Collision Profile Name
+[2022.08.19-19.56.19:210][511]LogSavePackage: Moving output files for package: /Game/BP_PilarMechanism
+[2022.08.19-19.56.19:212][511]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/BP_PilarMechanism47C20424477AE2EB101781896C68D232.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/BP_PilarMechanism.uasset'
+[2022.08.19-19.56.19:241][511]AssetCheck: New page: Asset Save: BP_PilarMechanism
+[2022.08.19-19.56.19:241][511]LogContentValidation: Display: Validating Blueprint /Game/BP_PilarMechanism.BP_PilarMechanism
+[2022.08.19-19.58.00:815][172]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2022.08.19-19.58.01:008][172]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.19-19.58.01:010][172]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeonD0F2CB3F4518D9095C9D75AC7DE68EC4.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.19-19.58.01:033][172]LogFileHelpers: No new changes to save!
+[2022.08.19-19.58.01:050][172]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.19-19.58.01:050][172]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.19-20.00.55:412][194]LogEditorTransaction: Undo Modify Component(s)
+[2022.08.19-20.00.56:130][207]LogEditorTransaction: Undo Modify Component(s)
+[2022.08.19-20.00.56:645][229]LogEditorTransaction: Undo Modify Component(s)
+[2022.08.19-20.02.11:927][911]LogSavePackage: Moving output files for package: /Game/BP_PilarMechanism
+[2022.08.19-20.02.11:930][911]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/BP_PilarMechanism9E8AB06F4505C12CE9B847A1ABD9A50A.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/BP_PilarMechanism.uasset'
+[2022.08.19-20.02.11:967][911]AssetCheck: New page: Asset Save: BP_PilarMechanism
+[2022.08.19-20.02.11:967][911]LogContentValidation: Display: Validating Blueprint /Game/BP_PilarMechanism.BP_PilarMechanism
+[2022.08.19-20.02.20:446][244]LogSlate: Window 'Color Picker' being destroyed
+[2022.08.19-20.02.22:133][316]LogSavePackage: Moving output files for package: /Game/BP_PilarMechanism
+[2022.08.19-20.02.22:137][316]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/BP_PilarMechanism8E3C669C4EB9590309774A9035B31303.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/BP_PilarMechanism.uasset'
+[2022.08.19-20.02.22:168][316]AssetCheck: New page: Asset Save: BP_PilarMechanism
+[2022.08.19-20.02.22:169][316]LogContentValidation: Display: Validating Blueprint /Game/BP_PilarMechanism.BP_PilarMechanism
+[2022.08.19-20.02.37:082][ 51]BlueprintLog: New page: Compile BP_PilarMechanism
+[2022.08.19-20.02.37:402][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2022.08.19-20.02.41:460][140]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.08.19-20.02.41:795][140]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.19-20.02.41:798][140]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeonB627236E480E8450BC6DEB8941B1E6CD.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.19-20.02.41:824][140]LogFileHelpers: No new changes to save!
+[2022.08.19-20.02.41:845][140]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.19-20.02.41:845][140]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.19-20.03.03:576][771]LogSavePackage: Moving output files for package: /Game/BP_PilarMechanism
+[2022.08.19-20.03.03:580][771]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/BP_PilarMechanism068DEF454BA3D3CC9F2138AF60318915.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/BP_PilarMechanism.uasset'
+[2022.08.19-20.03.03:622][771]AssetCheck: New page: Asset Save: BP_PilarMechanism
+[2022.08.19-20.03.03:622][771]LogContentValidation: Display: Validating Blueprint /Game/BP_PilarMechanism.BP_PilarMechanism
+[2022.08.19-20.03.04:355][802]BlueprintLog: New page: Compile BP_PilarMechanism
+[2022.08.19-20.03.04:483][802]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2022.08.19-20.03.27:855][828]LogEditorTransaction: Undo Modify Component(s)
+[2022.08.19-20.03.43:309][546]LogSavePackage: Moving output files for package: /Game/BP_PilarMechanism
+[2022.08.19-20.03.43:312][546]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/BP_PilarMechanism0F22106845D19D0D9FA61490CD645F2D.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/BP_PilarMechanism.uasset'
+[2022.08.19-20.03.43:341][546]AssetCheck: New page: Asset Save: BP_PilarMechanism
+[2022.08.19-20.03.43:341][546]LogContentValidation: Display: Validating Blueprint /Game/BP_PilarMechanism.BP_PilarMechanism
+[2022.08.19-20.03.57:680][994]LogSavePackage: Moving output files for package: /Game/BP_PilarMechanism
+[2022.08.19-20.03.57:683][994]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/BP_PilarMechanism2484E0904FDA95D4FDF034B4937A84DC.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/BP_PilarMechanism.uasset'
+[2022.08.19-20.03.57:712][994]AssetCheck: New page: Asset Save: BP_PilarMechanism
+[2022.08.19-20.03.57:712][994]LogContentValidation: Display: Validating Blueprint /Game/BP_PilarMechanism.BP_PilarMechanism
+[2022.08.19-20.03.58:109][ 13]BlueprintLog: New page: Compile BP_PilarMechanism
+[2022.08.19-20.03.58:248][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2022.08.19-20.04.04:432][140]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.08.19-20.04.04:769][140]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.19-20.04.04:772][140]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeon7E32B9BE4340C3D55872C0A28354E087.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.19-20.04.04:805][140]LogFileHelpers: No new changes to save!
+[2022.08.19-20.04.04:825][140]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.19-20.04.04:825][140]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.19-20.04.26:777][ 34]LogSavePackage: Moving output files for package: /Game/BP_PilarMechanism
+[2022.08.19-20.04.26:781][ 34]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/BP_PilarMechanismC22E61404155AA1BEE240DA5892E2796.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/BP_PilarMechanism.uasset'
+[2022.08.19-20.04.26:808][ 34]AssetCheck: New page: Asset Save: BP_PilarMechanism
+[2022.08.19-20.04.26:808][ 34]LogContentValidation: Display: Validating Blueprint /Game/BP_PilarMechanism.BP_PilarMechanism
+[2022.08.19-20.04.58:361][480]LogSlate: Took 0.018672 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.08.19-20.05.06:081][480]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.19-20.05.06:081][480]LogEditorClassViewer: Warning: Class /Game/FirstPerson/Blueprints/BP_FirstPersonProjectile.BP_FirstPersonProjectile_C has parent /Script/TP_FirstPerson.TP_FirstPersonProjectile, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.19-20.06.08:017][480]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.08.19-20.06.08:793][480]LogSlate: Window 'Add C++ Component' being destroyed
+[2022.08.19-20.06.08:905][480]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/CryptRaider.TriggerComponent'
+[2022.08.19-20.14.04:605][895]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2022.08.19-20.14.04:875][895]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyDungeon_Auto3
+[2022.08.19-20.14.04:875][895]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeon_Auto3933EE7C440FD6FBB24A490BFBADD0E41.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/Autosaves/Game/MyDungeon_Auto3.umap'
+[2022.08.19-20.14.05:340][895]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyDungeon' took 0.846
+[2022.08.19-20.14.05:340][895]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.846
+[2022.08.19-20.35.24:309][400]LogDerivedDataCache: C:/Users/aidab/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:05:18.648 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.19-20.36.15:002][485]LogLiveCoding: Display:    Creando biblioteca C:\Users\aidab\OneDrive\Escritorio\CURSOS\VIDEOJUEGOS_UNREAL_C++\GIT\UnrealCourse_22_23\CryptRaider\Binaries\Win64\UnrealEditor-CryptRaider.patch_0.lib y objeto C:\Users\aidab\OneDrive\Escritorio\CURSOS\VIDEOJUEGOS_UNREAL_C++\GIT\UnrealCourse_22_23\CryptRaider\Binaries\Win64\UnrealEditor-CryptRaider.patch_0.exp
+[2022.08.19-20.36.17:765][485]LogClass: /Script/CryptRaider Reload.
+[2022.08.19-20.36.19:082][485]LogClass: Could not find existing class TriggerComponent in package /Script/CryptRaider for reload, assuming new or modified class
+[2022.08.19-20.36.40:943][485]LogUObjectHash: Compacting FUObjectHashTables data took  35.79ms
+[2022.08.19-20.37.05:190][486]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new
+[2022.08.19-20.37.05:233][486]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2022.08.19-20.37.17:768][513]BlueprintLog: New page: Compile BP_PilarMechanism
+[2022.08.19-20.37.32:598][513]LogUObjectHash: Compacting FUObjectHashTables data took  61.26ms
+[2022.08.19-20.38.18:888][939]LogUObjectHash: Compacting FUObjectHashTables data took  20.97ms
+[2022.08.19-20.38.19:716][939]LogSavePackage: Moving output files for package: /Game/MyDungeon
+[2022.08.19-20.38.19:856][939]LogSavePackage: Moving '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Saved/MyDungeon549FC9CF4540F06F57D152B6C5D8B394.tmp' to '../../../../../../Users/aidab/OneDrive/Escritorio/CURSOS/VIDEOJUEGOS_UNREAL_C++/GIT/UnrealCourse_22_23/CryptRaider/Content/MyDungeon.umap'
+[2022.08.19-20.38.20:358][939]LogFileHelpers: No new changes to save!
+[2022.08.19-20.38.24:725][939]AssetCheck: New page: Asset Save: MyDungeon
+[2022.08.19-20.38.24:738][939]LogContentValidation: Display: Validating World /Game/MyDungeon.MyDungeon
+[2022.08.19-20.38.38:642][119]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.19-20.38.38:745][119]PIE: New page: PIE session: MyDungeon (Aug 20, 2022, 12:38:38 AM)
+[2022.08.19-20.38.38:938][119]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyDungeon
+[2022.08.19-20.38.39:721][119]LogPlayLevel: PIE: StaticDuplicateObject took: (0.782688s)
+[2022.08.19-20.38.39:721][119]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyDungeon.MyDungeon to /Game/UEDPIE_0_MyDungeon.MyDungeon (0.787849s)
+[2022.08.19-20.38.39:745][119]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.19-20.38.40:023][119]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.19-20.38.40:260][119]LogAIModule: Creating AISystem for world MyDungeon
+[2022.08.19-20.38.40:440][119]LogPlayLevel: PIE: World Init took: (0.714669s)
+[2022.08.19-20.38.40:623][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.08.19-20.38.40:709][119]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.08.19-20.38.40:750][119]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.19-20.38.40:750][119]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.19-20.38.40:750][119]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.19-20.38.40:750][119]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.19-20.38.40:750][119]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.19-20.38.40:750][119]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.19-20.38.40:750][119]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.19-20.38.40:751][119]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.19-20.38.40:792][119]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.19-20.38.40:792][119]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.19-20.38.40:792][119]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.19-20.38.40:884][119]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.19-20.38.41:087][119]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek High Definition Audio)
+[2022.08.19-20.38.41:128][119]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.19-20.38.41:128][119]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.19-20.38.41:129][119]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.19-20.38.41:182][119]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.08.19-20.38.41:183][119]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.08.19-20.38.41:185][119]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.08.19-20.38.41:185][119]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.08.19-20.38.41:185][119]LogInit: FAudioDevice initialized.
+[2022.08.19-20.38.41:185][119]LogAudio: Display: Audio Device (ID: 4) registered with world 'MyDungeon'.
+[2022.08.19-20.38.41:878][119]LogLoad: Game class is 'BP_CryptRaiderGameMode_C'
+[2022.08.19-20.38.42:188][119]LogWorld: Bringing World /Game/UEDPIE_0_MyDungeon.MyDungeon up for play (max tick rate 60) at 2022.08.19-22.38.42
+[2022.08.19-20.38.42:225][119]LogWorld: Bringing up level for play took: 0.335624
+[2022.08.19-20.38.42:437][119]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2022.08.19-20.38.42:966][119]LogTemp: Display: Got Physics Handle: PhysicsHandle
+[2022.08.19-20.38.42:981][119]PIE: Server logged in
+[2022.08.19-20.38.43:019][119]PIE: Play in editor total start time 4.956 seconds.
+[2022.08.19-20.38.45:477][126]LogSlate: Took 0.025594 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.08.19-20.40.23:076][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.19-20.40.23:076][268]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MyDungeon
+[2022.08.19-20.40.23:179][268]LogWorld: UWorld::CleanupWorld for MyDungeon, bSessionEnded=true, bCleanupResources=true
+[2022.08.19-20.40.23:265][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.19-20.40.23:432][268]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.19-20.40.23:446][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.19-20.40.23:584][268]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.19-20.40.23:624][268]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.08.19-20.40.23:627][268]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.08.19-20.40.23:641][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.19-20.40.23:811][268]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2022.08.19-20.40.23:926][269]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.08.19-20.40.35:627][497]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.08.19-20.42.41:189][783]LogLiveCoding: Display:    Creando biblioteca C:\Users\aidab\OneDrive\Escritorio\CURSOS\VIDEOJUEGOS_UNREAL_C++\GIT\UnrealCourse_22_23\CryptRaider\Binaries\Win64\UnrealEditor-CryptRaider.patch_1.lib y objeto C:\Users\aidab\OneDrive\Escritorio\CURSOS\VIDEOJUEGOS_UNREAL_C++\GIT\UnrealCourse_22_23\CryptRaider\Binaries\Win64\UnrealEditor-CryptRaider.patch_1.exp
+[2022.08.19-20.42.45:832][788]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2022.08.19-20.42.46:704][789]Display: Reload/Re-instancing Complete: 1 package changed, 1 class unchanged
+[2022.08.19-20.42.46:704][789]LogLiveCoding: Display: Live coding succeeded
+[2022.08.19-20.48.08:691][612]MapCheck: New page: Map Check
+[2022.08.19-20.48.08:856][612]LightingResults: New page: Lighting Build - Aug 20, 2022, 12:48:08 AM
+[2022.08.19-20.48.11:259][612]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.08.19-20.48.12:084][612]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.08.19-20.48.14:540][612]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.08.19-20.48.17:106][612]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.08.19-20.48.17:106][612]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16192
+[2022.08.19-20.48.33:909][612]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.08.19-20.48.33:920][612]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.08.19-20.48.33:920][612]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.08.19-20.48.33:920][612]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.08.19-20.48.33:920][612]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.08.19-20.48.33:920][612]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.08.19-20.48.35:723][612]LogEditorBuildUtils: Build time 0:26
+[2022.08.19-20.48.36:843][616]LogShaderCompilers: Display: ================================================
+[2022.08.19-20.48.36:843][616]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.08.19-20.48.36:843][616]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.08.19-20.48.36:843][616]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.08.19-20.48.36:853][616]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.00%
+[2022.08.19-20.48.36:854][616]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.08.19-20.48.36:854][616]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.08.19-20.48.36:854][616]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.08.19-20.48.36:854][616]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.08.19-20.48.36:866][616]LogShaderCompilers: Display: ================================================
+[2022.08.19-20.48.37:868][620]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2022.08.19-20.51.11:408][306]LightingResults: Warning: SM_DoorWay_Large_Door_Left Object has wrapping UVs.
+[2022.08.19-20.51.11:408][306]LightingResults: Warning: SM_DoorWay_Large_Door_Left Object has overlapping UVs.
+[2022.08.19-20.51.11:408][306]LightingResults: SM_DoorWay_Large_Door_Left Lightmap UV are overlapping by 61.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.19-20.51.27:795][486]LightingResults: Warning: SM_DoorWay_Large_Door_Left Object has wrapping UVs.
+[2022.08.19-20.51.27:795][486]LightingResults: Warning: SM_DoorWay_Large_Door_Left Object has overlapping UVs.
+[2022.08.19-20.51.27:795][486]LightingResults: SM_DoorWay_Large_Door_Left Lightmap UV are overlapping by 61.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.19-20.54.12:706][205]Job is a success!
+[2022.08.19-20.54.14:704][206]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.260s
+[2022.08.19-20.54.14:704][206]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.08.19-20.54.14:704][206]LogVolumetricLightmapImport:      BrickData (all levels) 0.4Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2022.08.19-20.54.14:704][206]LogVolumetricLightmapImport:      Bricks at depth
+[2022.08.19-20.54.14:704][206]LogVolumetricLightmapImport:          0: 1.2% covering 100.0% of volume
+[2022.08.19-20.54.14:704][206]LogVolumetricLightmapImport:          1: 6.0% covering 7.8% of volume
+[2022.08.19-20.54.14:704][206]LogVolumetricLightmapImport:          2: 92.9% covering 1.9% of volume
+[2022.08.19-20.54.14:704][206]LogVolumetricLightmapImport:      Bricks in each level
+[2022.08.19-20.54.14:704][206]LogVolumetricLightmapImport:          MyDungeon 			 84 bricks 	 100.0% (Persistent Level)
+[2022.08.19-20.54.21:164][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_1 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.21:850][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_1 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.21:898][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_1 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.22:119][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_2 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.22:139][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_2 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.22:234][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_2 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.22:276][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_3 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.22:394][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_3 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.22:447][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_3 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.22:573][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_4 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.22:593][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_4 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.22:638][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_4 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.22:677][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_5 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.22:726][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_5 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.22:776][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_5 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.22:817][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_6 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.22:840][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_6 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.22:892][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_6 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.22:949][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_7 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.22:973][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_7 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.23:082][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_7 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.23:123][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_8 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.23:147][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_8 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.23:212][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_8 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.23:256][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_9 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.23:282][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_9 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.23:345][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_9 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.23:397][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_10 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.23:418][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_10 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.23:489][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_10 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.23:552][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_11 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.23:574][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_11 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.23:630][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_11 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.23:682][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_12 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.23:706][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_12 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.23:771][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_12 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.23:829][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_13 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.23:854][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_13 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.23:920][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_13 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.23:970][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_14 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.23:996][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_14 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.24:068][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_14 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.24:113][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_15 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.24:141][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_15 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.24:208][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_15 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.24:314][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_16 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.24:346][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_16 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.24:409][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_16 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.24:461][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_17 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.24:487][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_17 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.24:556][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_17 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.24:605][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_18 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.24:628][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_18 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.24:687][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_18 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.24:734][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_19 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.24:758][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_19 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.24:825][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_19 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.24:866][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_20 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.24:894][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_20 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.24:977][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_20 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.25:045][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_21 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.25:068][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_21 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.25:163][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_21 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.25:203][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_22 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.25:263][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_22 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.25:306][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_23 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.25:329][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_23 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.25:381][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_23 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.25:428][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_24 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.25:468][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_24 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.25:558][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_24 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.25:609][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_25 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.25:690][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_25 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.25:747][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_26 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.25:769][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_26 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.25:858][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_26 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.25:925][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_27 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.25:948][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_27 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.26:012][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_27 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.26:059][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_28 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.26:089][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_28 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.26:150][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_28 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.26:213][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_29 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.26:245][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_29 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.26:315][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_29 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.26:360][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_30 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.26:383][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_30 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.26:448][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_30 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.26:490][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_31 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.26:515][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_31 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.26:603][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_31 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.26:654][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_32 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.26:673][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_32 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.26:749][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_32 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.26:827][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_33 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.26:855][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_33 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.26:930][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_33 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.26:969][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_34 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.26:990][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_34 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.27:066][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_34 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.27:119][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_35 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.27:143][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_35 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.27:223][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_35 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.27:272][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_36 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.27:294][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_36 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.27:349][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_36 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.27:396][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_37 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.27:453][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_37 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.27:567][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_37 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.27:620][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_38 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.27:645][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_38 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.27:696][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_38 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.27:733][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_39 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.27:755][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_39 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.27:835][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_39 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.27:884][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_40 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.27:915][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_40 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.28:009][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_40 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.28:068][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_41 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.28:097][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_41 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.28:161][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_41 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.28:200][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_42 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.28:220][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_42 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.28:284][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_42 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.28:327][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_43 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.28:352][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_43 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.28:435][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_43 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.28:478][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_44 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.28:532][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_44 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.28:689][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_44 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.28:839][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_45 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.28:881][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_45 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.28:999][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_45 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.29:088][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion1_46 (TFO_AutoDXT, 512X256 X1X1) (Required Memory Estimate: 3.33334 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.29:298][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:HQ_Lightmap1_46 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.29:319][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_1_46 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.29:343][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:SkyOcclusion0_47 (TFO_AutoDXT, 64X32 X1X1) (Required Memory Estimate: 0.05209 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.29:373][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:LQ_Lightmap_0_47 (TFO_DXT1, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.35:535][206]LogTexture: Display: Building textures: /Game/MyDungeon_BuiltData.MyDungeon_BuiltData:ShadowMapTexture2D_14 (G8, 1024X1024 X1X1) (Required Memory Estimate: 6.666665 MB), EncodeSpeed: Fast
+[2022.08.19-20.54.45:612][206]Lightmass on DESKTOP-57V99G8: 5:52 min total, 7.91 sec importing, 844 ms setup, 36.3 sec photons, 5:05 min processing, 0 us extra exporting [470/470 mappings]. Threads: 35:37 min total, 17:07 min processing.
+[2022.08.19-20.54.46:236][206]LogStaticLightingSystem: MyDungeon_BuiltData storing lightmap data for 400 meshes in 71 LightmapResourceClusters (5.6 Meshes per cluster).
+[2022.08.19-20.54.47:254][206]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.08.19-20.54.48:061][206]LogStaticLightingSystem: Illumination: 6:38 min (11.2 sec encoding lightmaps, 6.19 sec encoding shadowmaps)
+[2022.08.19-20.54.48:061][206]LogStaticLightingSystem: Lightmap texture memory:  124.5 MB (124.5 MB streaming, 0.0 MB non-streaming), 94 textures
+[2022.08.19-20.54.48:061][206]LogStaticLightingSystem: Shadowmap texture memory: 20.6 MB (20.6 MB streaming, 0.0 MB non-streaming), 16 textures
+[2022.08.19-20.54.49:280][206]DumpUnbuiltLightIteractions
+[2022.08.19-20.54.49:280][206]Lights with unbuilt interactions: 0
+[2022.08.19-20.54.49:280][206]
+[2022.08.19-20.54.49:280][206]Primitives with unbuilt interactions: 0
+[2022.08.19-20.54.49:400][206]LogShaderCompilers: Display: ================================================
+[2022.08.19-20.54.49:400][206]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.08.19-20.54.49:400][206]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.08.19-20.54.49:400][206]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.08.19-20.54.49:400][206]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.00%
+[2022.08.19-20.54.49:400][206]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.08.19-20.54.49:400][206]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.08.19-20.54.49:400][206]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.08.19-20.54.49:401][206]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.08.19-20.54.49:401][206]LogShaderCompilers: Display: ================================================
+[2022.08.19-20.54.50:100][207]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.08.19-20.54.50:130][207]MapCheck: New page: MyDungeon - Aug 20, 2022, 12:54:50 AM
+[2022.08.19-20.54.50:841][207]MapCheck: Warning: StaticMeshActor_128 StaticMeshActor_128 is in the same location as StaticMeshActor_251 
+[2022.08.19-20.54.50:982][207]MapCheck: Warning: StaticMeshActor_251 StaticMeshActor_251 is in the same location as StaticMeshActor_128 
+[2022.08.19-20.54.51:134][207]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 1,004.777ms to complete.
