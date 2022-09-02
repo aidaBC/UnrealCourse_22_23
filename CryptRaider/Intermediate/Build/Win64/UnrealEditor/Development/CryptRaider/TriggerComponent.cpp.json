@@ -1,17 +1,19 @@
 {
     "Version": "1.1",
     "Data": {
-        "Source": "c:\\users\\aidab\\onedrive\\escritorio\\cursos\\videojuegos_unreal_c++\\git\\unrealcourse_22_23\\cryptraider\\source\\cryptraider\\triggercomponent.cpp",
+        "Source": "c:\\users\\usuario\\desktop\\cursos\\videojuegos_unreal_c++\\git\\unrealcourse_22_23\\cryptraider\\source\\cryptraider\\triggercomponent.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\aidab\\onedrive\\escritorio\\cursos\\videojuegos_unreal_c++\\git\\unrealcourse_22_23\\cryptraider\\intermediate\\build\\win64\\cryptraidereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "c:\\users\\usuario\\desktop\\cursos\\videojuegos_unreal_c++\\git\\unrealcourse_22_23\\cryptraider\\intermediate\\build\\win64\\cryptraidereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
-            "c:\\users\\aidab\\onedrive\\escritorio\\cursos\\videojuegos_unreal_c++\\git\\unrealcourse_22_23\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\development\\cryptraider\\definitions.cryptraider.h",
-            "c:\\users\\aidab\\onedrive\\escritorio\\cursos\\videojuegos_unreal_c++\\git\\unrealcourse_22_23\\cryptraider\\source\\cryptraider\\triggercomponent.h",
+            "c:\\users\\usuario\\desktop\\cursos\\videojuegos_unreal_c++\\git\\unrealcourse_22_23\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\development\\cryptraider\\definitions.cryptraider.h",
+            "c:\\users\\usuario\\desktop\\cursos\\videojuegos_unreal_c++\\git\\unrealcourse_22_23\\cryptraider\\source\\cryptraider\\triggercomponent.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\shapecomponent.generated.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\boxcomponent.generated.h",
-            "c:\\users\\aidab\\onedrive\\escritorio\\cursos\\videojuegos_unreal_c++\\git\\unrealcourse_22_23\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptraider\\triggercomponent.generated.h"
+            "c:\\users\\usuario\\desktop\\cursos\\videojuegos_unreal_c++\\git\\unrealcourse_22_23\\cryptraider\\source\\cryptraider\\mover.h",
+            "c:\\users\\usuario\\desktop\\cursos\\videojuegos_unreal_c++\\git\\unrealcourse_22_23\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptraider\\mover.generated.h",
+            "c:\\users\\usuario\\desktop\\cursos\\videojuegos_unreal_c++\\git\\unrealcourse_22_23\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptraider\\triggercomponent.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

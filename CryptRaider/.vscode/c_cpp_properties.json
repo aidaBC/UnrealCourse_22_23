@@ -3,14 +3,14 @@
         {
             "name": "CryptRaiderEditor Editor Win64 Development (CryptRaider)",
             "intelliSenseMode": "msvc-x64",
-            "compileCommands": "C:\\Users\\aidab\\OneDrive\\Escritorio\\CURSOS\\VIDEOJUEGOS_UNREAL_C++\\GIT\\UnrealCourse_22_23\\CryptRaider\\.vscode\\compileCommands_CryptRaider.json",
+            "compileCommands": "C:\\Users\\Usuario\\Desktop\\CURSOS\\VIDEOJUEGOS_UNREAL_C++\\GIT\\UnrealCourse_22_23\\CryptRaider\\.vscode\\compileCommands_CryptRaider.json",
             "cStandard": "c17",
             "cppStandard": "c++17"
         },
         {
             "name": "Win32",
             "intelliSenseMode": "msvc-x64",
-            "compileCommands": "C:\\Users\\aidab\\OneDrive\\Escritorio\\CURSOS\\VIDEOJUEGOS_UNREAL_C++\\GIT\\UnrealCourse_22_23\\CryptRaider\\.vscode\\compileCommands_Default.json",
+            "compileCommands": "C:\\Users\\Usuario\\Desktop\\CURSOS\\VIDEOJUEGOS_UNREAL_C++\\GIT\\UnrealCourse_22_23\\CryptRaider\\.vscode\\compileCommands_Default.json",
             "cStandard": "c17",
             "cppStandard": "c++17"
         }

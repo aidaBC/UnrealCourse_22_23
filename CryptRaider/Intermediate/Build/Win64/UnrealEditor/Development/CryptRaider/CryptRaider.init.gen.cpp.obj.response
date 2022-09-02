@@ -1,4 +1,4 @@
-C:\Users\aidab\OneDrive\Escritorio\CURSOS\VIDEOJUEGOS_UNREAL_C++\GIT\UnrealCourse_22_23\CryptRaider\Intermediate\Build\Win64\UnrealEditor\Inc\CryptRaider\CryptRaider.init.gen.cpp
+C:\Users\Usuario\Desktop\CURSOS\VIDEOJUEGOS_UNREAL_C++\GIT\UnrealCourse_22_23\CryptRaider\Intermediate\Build\Win64\UnrealEditor\Inc\CryptRaider\CryptRaider.init.gen.cpp
 /I .
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine
 /I Runtime
@@ -251,8 +251,8 @@ C:\Users\aidab\OneDrive\Escritorio\CURSOS\VIDEOJUEGOS_UNREAL_C++\GIT\UnrealCours
 /I Runtime\ClothingSystemRuntimeInterface\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController
 /I Developer\AnimationDataController\Public
-/I C:\Users\aidab\OneDrive\Escritorio\CURSOS\VIDEOJUEGOS_UNREAL_C++\GIT\UnrealCourse_22_23\CryptRaider\Intermediate\Build\Win64\UnrealEditor\Inc\CryptRaider
-/I C:\Users\aidab\OneDrive\Escritorio\CURSOS\VIDEOJUEGOS_UNREAL_C++\GIT\UnrealCourse_22_23\CryptRaider\Source
+/I C:\Users\Usuario\Desktop\CURSOS\VIDEOJUEGOS_UNREAL_C++\GIT\UnrealCourse_22_23\CryptRaider\Intermediate\Build\Win64\UnrealEditor\Inc\CryptRaider
+/I C:\Users\Usuario\Desktop\CURSOS\VIDEOJUEGOS_UNREAL_C++\GIT\UnrealCourse_22_23\CryptRaider\Source
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AugmentedReality
 /I Runtime\AugmentedReality\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\MRMesh
@@ -277,12 +277,12 @@ C:\Users\aidab\OneDrive\Escritorio\CURSOS\VIDEOJUEGOS_UNREAL_C++\GIT\UnrealCours
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"C:\Users\aidab\OneDrive\Escritorio\CURSOS\VIDEOJUEGOS_UNREAL_C++\GIT\UnrealCourse_22_23\CryptRaider\Intermediate\Build\Win64\CryptRaiderEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/FI"C:\Users\aidab\OneDrive\Escritorio\CURSOS\VIDEOJUEGOS_UNREAL_C++\GIT\UnrealCourse_22_23\CryptRaider\Intermediate\Build\Win64\UnrealEditor\Development\CryptRaider\Definitions.CryptRaider.h"
-/Yu"C:\Users\aidab\OneDrive\Escritorio\CURSOS\VIDEOJUEGOS_UNREAL_C++\GIT\UnrealCourse_22_23\CryptRaider\Intermediate\Build\Win64\CryptRaiderEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\aidab\OneDrive\Escritorio\CURSOS\VIDEOJUEGOS_UNREAL_C++\GIT\UnrealCourse_22_23\CryptRaider\Intermediate\Build\Win64\CryptRaiderEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-/Fo"C:\Users\aidab\OneDrive\Escritorio\CURSOS\VIDEOJUEGOS_UNREAL_C++\GIT\UnrealCourse_22_23\CryptRaider\Intermediate\Build\Win64\UnrealEditor\Development\CryptRaider\CryptRaider.init.gen.cpp.obj"
-/sourceDependencies C:\Users\aidab\OneDrive\Escritorio\CURSOS\VIDEOJUEGOS_UNREAL_C++\GIT\UnrealCourse_22_23\CryptRaider\Intermediate\Build\Win64\UnrealEditor\Development\CryptRaider\CryptRaider.init.gen.cpp.json
+/FI"C:\Users\Usuario\Desktop\CURSOS\VIDEOJUEGOS_UNREAL_C++\GIT\UnrealCourse_22_23\CryptRaider\Intermediate\Build\Win64\CryptRaiderEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/FI"C:\Users\Usuario\Desktop\CURSOS\VIDEOJUEGOS_UNREAL_C++\GIT\UnrealCourse_22_23\CryptRaider\Intermediate\Build\Win64\UnrealEditor\Development\CryptRaider\Definitions.CryptRaider.h"
+/Yu"C:\Users\Usuario\Desktop\CURSOS\VIDEOJUEGOS_UNREAL_C++\GIT\UnrealCourse_22_23\CryptRaider\Intermediate\Build\Win64\CryptRaiderEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\Usuario\Desktop\CURSOS\VIDEOJUEGOS_UNREAL_C++\GIT\UnrealCourse_22_23\CryptRaider\Intermediate\Build\Win64\CryptRaiderEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"C:\Users\Usuario\Desktop\CURSOS\VIDEOJUEGOS_UNREAL_C++\GIT\UnrealCourse_22_23\CryptRaider\Intermediate\Build\Win64\UnrealEditor\Development\CryptRaider\CryptRaider.init.gen.cpp.obj"
+/sourceDependencies C:\Users\Usuario\Desktop\CURSOS\VIDEOJUEGOS_UNREAL_C++\GIT\UnrealCourse_22_23\CryptRaider\Intermediate\Build\Win64\UnrealEditor\Development\CryptRaider\CryptRaider.init.gen.cpp.json
 /Zc:inline
 /nologo
 /Oi
