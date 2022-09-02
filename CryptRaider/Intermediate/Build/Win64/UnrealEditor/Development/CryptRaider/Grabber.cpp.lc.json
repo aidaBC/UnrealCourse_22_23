@@ -1,15 +1,15 @@
 {
     "Version": "1.1",
     "Data": {
-        "Source": "c:\\users\\aidab\\onedrive\\escritorio\\cursos\\videojuegos_unreal_c++\\git\\unrealcourse_22_23\\cryptraider\\source\\cryptraider\\grabber.cpp",
+        "Source": "c:\\users\\usuario\\desktop\\cursos\\videojuegos_unreal_c++\\git\\unrealcourse_22_23\\cryptraider\\source\\cryptraider\\grabber.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\aidab\\onedrive\\escritorio\\cursos\\videojuegos_unreal_c++\\git\\unrealcourse_22_23\\cryptraider\\intermediate\\build\\win64\\cryptraidereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "c:\\users\\usuario\\desktop\\cursos\\videojuegos_unreal_c++\\git\\unrealcourse_22_23\\cryptraider\\intermediate\\build\\win64\\cryptraidereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
-            "c:\\users\\aidab\\onedrive\\escritorio\\cursos\\videojuegos_unreal_c++\\git\\unrealcourse_22_23\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\development\\cryptraider\\definitions.cryptraider.h",
-            "c:\\users\\aidab\\onedrive\\escritorio\\cursos\\videojuegos_unreal_c++\\git\\unrealcourse_22_23\\cryptraider\\source\\cryptraider\\grabber.h",
+            "c:\\users\\usuario\\desktop\\cursos\\videojuegos_unreal_c++\\git\\unrealcourse_22_23\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\development\\cryptraider\\definitions.cryptraider.h",
+            "c:\\users\\usuario\\desktop\\cursos\\videojuegos_unreal_c++\\git\\unrealcourse_22_23\\cryptraider\\source\\cryptraider\\grabber.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\physicsengine\\physicshandlecomponent.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\physicshandlecomponent.generated.h",
-            "c:\\users\\aidab\\onedrive\\escritorio\\cursos\\videojuegos_unreal_c++\\git\\unrealcourse_22_23\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptraider\\grabber.generated.h"
+            "c:\\users\\usuario\\desktop\\cursos\\videojuegos_unreal_c++\\git\\unrealcourse_22_23\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptraider\\grabber.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

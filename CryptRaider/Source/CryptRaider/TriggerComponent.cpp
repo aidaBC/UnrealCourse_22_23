@@ -25,6 +25,12 @@ void UTriggerComponent::TickComponent(float DeltaTime, ELevelTick TickType, FAct
 	AActor* ReturnActor = GetAcceptableActor();
 	if(ReturnActor != nullptr)
 	{
+		UPrimitiveComponent* Component = Cast<UPrimitiveComponent>(ReturnActor->GetRootComponent());
+		if(Component != nullptr)
+		{
+			Component->SetSimulatePhysics(false);
+		}
+		ReturnActor->AttachToComponent(this, FAttachmentTransformRules::KeepWorldTransform);
 		Mover->SetShouldMove(true);
 	}
 	else
@@ -47,7 +53,7 @@ AActor* UTriggerComponent::GetAcceptableActor() const
 
 	for (AActor* Actor : Actors)
 	{
-		if(Actor->ActorHasTag(AcceptableActorTag))
+		if(Actor->ActorHasTag(AcceptableActorTag) && !Actor->ActorHasTag("Grabbed"))
 		{
 			return Actor;
 		}
