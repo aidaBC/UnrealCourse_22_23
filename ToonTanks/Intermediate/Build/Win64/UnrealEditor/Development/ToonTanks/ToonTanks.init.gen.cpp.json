@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\usuario\\desktop\\cursos\\videojuegos_unreal_c++\\git\\unrealcourse_22_23\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\toontanks.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\usuario\\desktop\\cursos\\videojuegos_unreal_c++\\git\\unrealcourse_22_23\\toontanks\\intermediate\\build\\win64\\toontankseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\usuario\\desktop\\cursos\\videojuegos_unreal_c++\\git\\unrealcourse_22_23\\toontanks\\intermediate\\build\\win64\\unrealeditor\\development\\toontanks\\definitions.toontanks.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

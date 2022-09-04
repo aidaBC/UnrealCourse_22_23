@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ToonTanks",
+			"Path": "C:\\Users\\Usuario\\Desktop\\CURSOS\\VIDEOJUEGOS_UNREAL_C++\\GIT\\UnrealCourse_22_23\\ToonTanks\\Source\\ToonTanks.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ToonTanksEditor",
+			"Path": "C:\\Users\\Usuario\\Desktop\\CURSOS\\VIDEOJUEGOS_UNREAL_C++\\GIT\\UnrealCourse_22_23\\ToonTanks\\Source\\ToonTanksEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

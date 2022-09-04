@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ToonTanks.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Usuario\Desktop\CURSOS\VIDEOJUEGOS_UNREAL_C++\GIT\UnrealCourse_22_23\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Usuario\Desktop\CURSOS\VIDEOJUEGOS_UNREAL_C++\GIT\UnrealCourse_22_23\ToonTanks\Intermediate\Build\Win64\UnrealEditor\Development\ToonTanks\BasicPawn.cpp.obj"
+"C:\Users\Usuario\Desktop\CURSOS\VIDEOJUEGOS_UNREAL_C++\GIT\UnrealCourse_22_23\ToonTanks\Intermediate\Build\Win64\UnrealEditor\Development\ToonTanks\ToonTanks.cpp.obj"
+"C:\Users\Usuario\Desktop\CURSOS\VIDEOJUEGOS_UNREAL_C++\GIT\UnrealCourse_22_23\ToonTanks\Intermediate\Build\Win64\UnrealEditor\Development\ToonTanks\BasicPawn.gen.cpp.obj"
+"C:\Users\Usuario\Desktop\CURSOS\VIDEOJUEGOS_UNREAL_C++\GIT\UnrealCourse_22_23\ToonTanks\Intermediate\Build\Win64\UnrealEditor\Development\ToonTanks\ToonTanks.init.gen.cpp.obj"
+"C:\Users\Usuario\Desktop\CURSOS\VIDEOJUEGOS_UNREAL_C++\GIT\UnrealCourse_22_23\ToonTanks\Intermediate\Build\Win64\UnrealEditor\Development\ToonTanks\Default.rc2.res"
+/OUT:"C:\Users\Usuario\Desktop\CURSOS\VIDEOJUEGOS_UNREAL_C++\GIT\UnrealCourse_22_23\ToonTanks\Intermediate\Build\Win64\UnrealEditor\Development\ToonTanks\UnrealEditor-ToonTanks.lib"
