@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\usuario\\desktop\\cursos\\videojuegos_unreal_c++\\git\\unrealcourse_22_23\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\toontanksplayercontroller.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\usuario\\desktop\\cursos\\videojuegos_unreal_c++\\git\\unrealcourse_22_23\\toontanks\\intermediate\\build\\win64\\toontankseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\usuario\\desktop\\cursos\\videojuegos_unreal_c++\\git\\unrealcourse_22_23\\toontanks\\intermediate\\build\\win64\\unrealeditor\\development\\toontanks\\definitions.toontanks.h",
+            "c:\\users\\usuario\\desktop\\cursos\\videojuegos_unreal_c++\\git\\unrealcourse_22_23\\toontanks\\source\\toontanks\\toontanksplayercontroller.h",
+            "c:\\users\\usuario\\desktop\\cursos\\videojuegos_unreal_c++\\git\\unrealcourse_22_23\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\toontanksplayercontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

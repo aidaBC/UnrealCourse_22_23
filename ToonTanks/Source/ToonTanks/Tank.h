@@ -36,7 +36,7 @@ private:
 	void Move(float Value);
 	void Turn(float Value);
 
-	APlayerController* PlayerControllerRef;
+	APlayerController* TankPlayerController;
 
 public:
 	// Called to bind functionality to input
@@ -45,4 +45,7 @@ public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 	
+	void HandleDestruction();
+
+	APlayerController* GetTankPlayerController() const { return TankPlayerController; };
 };
