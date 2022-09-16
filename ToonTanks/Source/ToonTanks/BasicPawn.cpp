@@ -52,5 +52,16 @@ void ABasicPawn::Fire()
 
 void ABasicPawn::HandleDestruction()
 {
-	//TODO: handle visual and sound effects of destruction
+	if(DestructionParticles)
+	{
+		UGameplayStatics::SpawnEmitterAtLocation(this, DestructionParticles, GetActorLocation(), GetActorRotation());
+	}
+	if(DeathSound)
+	{
+		UGameplayStatics::PlaySoundAtLocation(this, DeathSound, GetActorLocation(), GetActorRotation());
+	}
+	if(DeathCameraShakeClass)
+	{
+		GetWorld()->GetFirstPlayerController()->ClientStartCameraShake(DeathCameraShakeClass);
+	}
 }

@@ -35,4 +35,19 @@ private:
 
 	UFUNCTION()
 	void OnHit(UPrimitiveComponent* HitComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, FVector NormalImpulse, const FHitResult& Hit);
+
+	UPROPERTY(EditAnywhere, Category="Effects")
+	class UParticleSystem* HitParticles;
+
+	UPROPERTY(VisibleAnywhere)
+	class UParticleSystemComponent* TrailParticles;
+
+	UPROPERTY(EditAnywhere, Category="Effects")
+	class USoundBase* LaunchSound;
+
+	UPROPERTY(EditAnywhere, Category="Effects")
+	class USoundBase* HitSound;
+
+	UPROPERTY(EditAnywhere, Category="Effects")
+	TSubclassOf<class UCameraShakeBase> HitCameraShakeClass;
 };
